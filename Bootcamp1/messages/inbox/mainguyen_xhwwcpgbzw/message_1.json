@@ -1,0 +1,674 @@
+{
+  "participants": [
+    {
+      "name": "Mai Nguyen"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560650812133,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1560646472241,
+      "content": "Yeah! :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1560646457825,
+      "content": "No worries thanks for letting me know!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560646398728,
+      "content": "Hope to see u later this summer and next year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560646389655,
+      "content": "Good luck tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560646387384,
+      "content": "Sucks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560646386180,
+      "content": "Nooo im leaving tomorrow afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1560645250813,
+      "content": "Also I saw your sister on Thursday! She didn't see me tho lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1560645215492,
+      "content": "Super duper forgot to text you, but my recital is tomorrow at 7 pm, 99 Prospect St Cambridge. Show up if you're free! There will be food.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558916025485,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558916022270,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558916018345,
+      "content": "I can stick around or just show up at ur house",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558916017725,
+      "content": "Yea 6 or 7?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558916003202,
+      "content": "Maybe a little later? After ur thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915977349,
+      "content": "I'll see if i can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915974594,
+      "content": "I have something that afyernoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915934083,
+      "content": "Oh what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915929526,
+      "content": "I thought it was tues after school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915921804,
+      "content": "?? We're not reh tomorrow morn are we?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915910371,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915908231,
+      "content": "Are u and josie stipl planning on coming tomorrow morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915894262,
+      "content": "Yea will do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915888326,
+      "content": "Okk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915888191,
+      "content": "But yeah if u don't mind maybe u can look it over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915879202,
+      "content": "It's due 4th period Tuesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915869649,
+      "content": "Yeah sure...mostly I just look stuff up and hope the internet is correct",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915852473,
+      "content": "LOL ok fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915792656,
+      "content": "I could try to help on tuesday if its not too late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915783646,
+      "content": "When is it due",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915780540,
+      "content": "Sorrryy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915775859,
+      "content": "And my mom couldnt find it any kf the places she though it was",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915762132,
+      "content": "And now my sister",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915759458,
+      "content": "I gave my chinese stuff to my mom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915758082,
+      "sticker": {
+        "uri": "messages/stickers_used/851582_369239386556143_1497813874_n_369239383222810.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915752957,
+      "content": "I was just going to text",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558915746749,
+      "content": "No its ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915741307,
+      "content": "lol I feel bad to keep asking but I really need it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915729128,
+      "content": "Do u hav it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558915723046,
+      "content": "So",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558842215010,
+      "content": "Weekends are complicated too sometimes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558842204129,
+      "content": "Yea we dont see each other much on weekdays",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558842192150,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558842180821,
+      "content": "Anyway i wanna finish it by Monday so if u can get it to me tomorrow that'd be great",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558842163557,
+      "content": "That's sad u haven't seen ur sister :'(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558842163058,
+      "content": "That's ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558841976663,
+      "content": "Im so sorry i haveny reqlly had the chance to see her yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558816764605,
+      "content": "Willllllllllll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558724761188,
+      "content": "Ok sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558723085712,
+      "content": "I'll ask her when i see her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558723079404,
+      "content": "Dam i just realized i gave all my chinese stuff to my sister",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558718532502,
+      "content": "Can u take pics of ur project and send it to me? Thanks!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1553965252392,
+      "content": "solid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1553964804705,
+      "content": "Lemme make a group chat with josie so we can find a time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1553964792015,
+      "content": "Yes sorry i just get caught up in other stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1553964735462,
+      "content": "This week would be a good week for me to try some stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1553964729303,
+      "content": "Hey you still want to do that piece?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552600736668,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1552593663180,
+      "content": "I don't want them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1552593660059,
+      "content": "Oh give those to alex",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552584664606,
+      "content": "U still want them?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552584649810,
+      "content": "Yo alex left your tickets for the bos at the table",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547615003889,
+      "content": "Will do!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "William Cooper"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614546403,
+      "content": "Lmk when ur schedule clears up a bit then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614536230,
+      "content": "Sounds gut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614530287,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547614512528,
+      "content": "(\u00f0\u009f\u0091\u0089\u00f0\u009f\u008f\u00bb \u00cd\u00a1\u00c2\u00b0 \u00cd\u009c\u00ca\u0096 \u00cd\u00a1\u00c2\u00b0)\u00f0\u009f\u0091\u0089\u00f0\u009f\u008f\u00bb",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547614508582,
+      "content": "I actually recently took a class on 21st cent music so if ur ever looking for weird stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614497778,
+      "content": "But having a whole semster ti do it will be nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614488411,
+      "content": "Yea ive tried before its tougj",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547614480080,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547614469810,
+      "content": "Honestly arranging is really hard haha but I'm sure you'll be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547614457836,
+      "content": "Yeah def a lot of music",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547614452683,
+      "content": "Ayyy cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614431854,
+      "content": "Should be fun regardless hah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614426535,
+      "content": "Im sure theres a ton of music for all those instruments",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614400281,
+      "content": "Ill do some solos and some with my instructor who plays violin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614371264,
+      "content": "Ive sort of put togethrr a band with a few others as well and we might do covers or produce our own stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547614340003,
+      "content": "Ye i have a free p3 too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547613678875,
+      "content": "I thought you were making ur own music; so ur planning to play piano? I def know a lot of flute, piano music and I also know a lot of contemporary music/techniques you might want to explore too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547613581018,
+      "content": "Oohhhh I see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547613578023,
+      "content": "I have mine during 2+3! Maybe I'll see you there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547613113343,
+      "content": "Im rly ok with any kind of music too, i thought maybe youd probably know more about music for flute and piano than me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547613082037,
+      "content": "Its p4 but its pretty flexible because i dont have many other classes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547611448379,
+      "content": "I'm up for anything :))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547611132691,
+      "content": "Also what kind of music are you thinking?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547611107397,
+      "content": "What period is ur grad project?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547611095213,
+      "content": "Omg I'd love to that sounds amazing!!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547606147508,
+      "content": "It'd be great if you could feature?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547606124715,
+      "content": "Next semester I'm actually doing a graduation project where I'm recording an album",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547606097098,
+      "content": "heh yea nothing in school bothers me anymore lol",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mai Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547600374421,
+      "content": "Glad to hear you're not stressed about finals haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547600361308,
+      "content": "And the concerts in June so I'm not so worried",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1547600352012,
+      "content": "Yeah for sure! I'm actually going to be really busy until mid-feb BUT after that we can rehearse :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547595512600,
+      "content": "I've had  a lot of free time and nothing to do lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1547595505645,
+      "content": "Hey you still want to play at some point?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1538965379296,
+      "content": "Yeah ofc! :))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1538965274928,
+      "content": "let me know when you guys start practicing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1538965269325,
+      "content": "cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1538964175899,
+      "content": "The piece is called \"Maya\" by Ian Clarke",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1538964165326,
+      "content": "Yeah that's a good idea haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1538964157062,
+      "content": "Oh awesome! Thanks so much. I'll send you the PDF and you can find the recording online easily.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1538963376341,
+      "content": "Probably after early apps are done tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1538963363923,
+      "content": "I wouldnt mind practicing earlier actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1538963343840,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1538963343815,
+      "content": "I would love to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1538961316787,
+      "content": "Hi Will! David Lee told me you're good at piano and josie w. and I were wondering if you could to play with us in a flute/piano trio for the chamber music concert? The piano part isn't that hard, it's just chords mostly. I can send it to you if you want. We'd prob start rehearsing second semester. Let me know!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Mai Nguyen",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MaiNguyen_XHwwCPGBzw"
+}

@@ -1,0 +1,96 @@
+{
+  "participants": [
+    {
+      "name": "Rachel Alexander"
+    },
+    {
+      "name": "Albert Liu"
+    },
+    {
+      "name": "Sakib Asraf"
+    },
+    {
+      "name": "Aviva Gould"
+    },
+    {
+      "name": "William Cooper"
+    },
+    {
+      "name": "Penelope Hernandez"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aviva Gould",
+      "timestamp_ms": 1549836112842,
+      "content": "I\u00e2\u0080\u0099m on my way, be there in 5 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aviva Gould",
+      "timestamp_ms": 1549589767115,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1549589758493,
+      "content": "put their names in the spreadsheet so that we give them credit for showing up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1549589737759,
+      "content": "awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aviva Gould",
+      "timestamp_ms": 1549589734032,
+      "content": "and theyll help me go shopping and whatever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aviva Gould",
+      "timestamp_ms": 1549589726750,
+      "content": "Sakib I have two people I'm pretty sure are going to join",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1549589720791,
+      "content": "Sakib Asraf added Rachel Alexander and Penelope Hernandez.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Rachel Alexander"
+        },
+        {
+          "name": "Penelope Hernandez"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1549589713123,
+      "content": "Also @Aviva Gould: remember to pick up a giftcard from Ms. VB tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1549589695331,
+      "content": "Sakib named the group Y2Y Sunday, Feb 10.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1549589688648,
+      "content": "Hi everyone! You're all signed up to volunteer at Y2Y on Sunday, Feb 10. Aviva's the only point for the night. This shift is a little short, so I'll see if I can get a few more people to sign up. Have fun!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Y2Y Sunday, Feb 10",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/Y2YSundayFeb10_EsdsJh5KzQ"
+}

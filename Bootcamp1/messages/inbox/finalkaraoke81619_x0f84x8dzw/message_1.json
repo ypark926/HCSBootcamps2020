@@ -1,0 +1,1009 @@
+{
+  "participants": [
+    {
+      "name": "Melissa Liu"
+    },
+    {
+      "name": "Sophia Sonnert"
+    },
+    {
+      "name": "David Lee"
+    },
+    {
+      "name": "Simon Nicholson"
+    },
+    {
+      "name": "Albert Liu"
+    },
+    {
+      "name": "Philos Kim"
+    },
+    {
+      "name": "Josephine Weissburg"
+    },
+    {
+      "name": "Nicholas Hall"
+    },
+    {
+      "name": "Madeleine Dickman"
+    },
+    {
+      "name": "Neely McKee"
+    },
+    {
+      "name": "Cole Killian"
+    },
+    {
+      "name": "Andrew Garber"
+    },
+    {
+      "name": "Hanna Carney"
+    },
+    {
+      "name": "Fritz-Gerald Duverglas"
+    },
+    {
+      "name": "Ezra Rudel"
+    },
+    {
+      "name": "Mohammed Shafim"
+    },
+    {
+      "name": "Peter Laskin"
+    },
+    {
+      "name": "Eva Beram"
+    },
+    {
+      "name": "Kailash Nakagawa"
+    },
+    {
+      "name": "Phoenix Tamaoki"
+    },
+    {
+      "name": "Nacie Loh"
+    },
+    {
+      "name": "Sophie Green"
+    },
+    {
+      "name": "William Cooper"
+    },
+    {
+      "name": "Sagyan Aryal"
+    },
+    {
+      "name": "Hazen Emerson"
+    },
+    {
+      "name": "Anas Bouhassoun"
+    },
+    {
+      "name": "Raiag Khan"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1568409777340,
+      "content": "Facts bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sagyan Aryal",
+      "timestamp_ms": 1568409766752,
+      "content": "Dam that\u00e2\u0080\u0099s \u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Josephine Weissburg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1568408663079,
+      "content": "This is also singing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1568408658843,
+      "content": "https://soundcloud.com/b-ball-bois/shot-in-the-dark-25",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "David Lee"
+        }
+      ],
+      "share": {
+        "link": "https://soundcloud.com/b-ball-bois/shot-in-the-dark-25"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Hanna Carney",
+      "timestamp_ms": 1567270072004,
+      "content": "Baaaaaallin was more than just a gaaaaame",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Fritz-Gerald Duverglas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1567214279812,
+      "content": "Ik facts. And thanks phoenix",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1567214231341,
+      "content": "Also good work guys it's actually niceeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1567214220951,
+      "content": "Lol nice plug",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1567209375610,
+      "content": "This is related enough to singing",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Anas Bouhassoun"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1567209367219,
+      "content": "https://m.soundcloud.com/b-ball-bois/ballroom-floor",
+      "share": {
+        "link": "https://soundcloud.com/b-ball-bois/ballroom-floor"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1566009753170,
+      "content": "I was legit there waving at the guy...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Sagyan Aryal"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Anas Bouhassoun"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1566009736194,
+      "content": "And nah if I walk up and miss my Uber again imma be pissed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1566009728049,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1566009718771,
+      "content": "I'm good for getting home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1566009710010,
+      "content": "U good for getting home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1566009702831,
+      "content": "You coming back up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1566009693989,
+      "content": "Feels bad. All good though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1566009682111,
+      "content": "Shoot I'm sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1566009638664,
+      "content": "Thanks y'all. I missed my Uber...",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Simon Nicholson"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Phoenix Tamaoki"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Sagyan Aryal"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Raiag Khan"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ezra Rudel",
+      "timestamp_ms": 1566008477706,
+      "content": "Thanks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1566008470312,
+      "content": "I'm coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1566008468797,
+      "content": "yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ezra Rudel",
+      "timestamp_ms": 1566008443088,
+      "content": "Y'all still here? I'm in the lobby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1566001762879,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1566001759247,
+      "content": "I'll pick you up stay in the lobby",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1566001739158,
+      "content": "Here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1566001014407,
+      "content": "Be there at 830",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Hanna Carney"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Fritz-Gerald Duverglas"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Raiag Khan"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1566000437228,
+      "content": "I appreciate the effort",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Fritz-Gerald Duverglas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1566000400963,
+      "content": "Ok second floor it is @Albert Liu your wish can not be fulfilled",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anas Bouhassoun",
+      "timestamp_ms": 1566000388950,
+      "content": "Omw from kendall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1566000360435,
+      "content": "damn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1566000359622,
+      "content": "Buh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1566000356034,
+      "content": "ooof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1566000349677,
+      "content": "Goddamn it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1566000347243,
+      "content": "Original room is taken",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566000254214,
+      "content": "Be there in 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565999952317,
+      "content": "Tell us if your here we'll pick you up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565999941196,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565999934692,
+      "content": "Ok were officially moving down to og room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565999846284,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565999843537,
+      "content": "Sh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565999841271,
+      "content": "No wait nick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565999833646,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565999825308,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565999822484,
+      "content": "or 3-270?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565999814232,
+      "content": "is it the og room?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565999658197,
+      "content": "it\u00e2\u0080\u0099s easier if you just give the room number lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565999647092,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sagyan Aryal",
+      "timestamp_ms": 1565999639753,
+      "content": "Park hall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565999601446,
+      "content": "What\u00e2\u0080\u0099s the room number?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565999404508,
+      "content": "Last room down the hall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565999393274,
+      "content": "Go down the hall with the 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565999385958,
+      "content": "Second floor",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565999381789,
+      "content": "Take the first staircase",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anas Bouhassoun",
+      "timestamp_ms": 1565999353321,
+      "content": "What room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Madeleine Dickman",
+      "timestamp_ms": 1565999087169,
+      "content": "Madeleine voted for \"8\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Ezra Rudel",
+      "timestamp_ms": 1565998933333,
+      "content": "Ezra voted for \"10:00\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kailash Nakagawa",
+      "timestamp_ms": 1565998915476,
+      "content": "For certain gameplay reasons",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565998912141,
+      "content": "I mean if you want to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kailash Nakagawa",
+      "timestamp_ms": 1565998907474,
+      "content": "And mice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565998902021,
+      "content": "Nahhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Kailash Nakagawa",
+      "timestamp_ms": 1565998890337,
+      "content": "Should we all bring computers?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1565996421526,
+      "content": "Cole voted for \"7:30\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Melissa Liu",
+      "timestamp_ms": 1565995808960,
+      "content": "Melissa voted for \"8\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565995286278,
+      "content": "Nicholas voted for \"8\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eva Beram",
+      "timestamp_ms": 1565994694683,
+      "content": "Eva voted for \"9\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anas Bouhassoun",
+      "timestamp_ms": 1565994624507,
+      "content": "Anas voted for \"7:30\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565994322937,
+      "content": "Raiag voted for \"7:30\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1565994163633,
+      "content": "Fritz-Gerald voted for \"7:30\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sagyan Aryal",
+      "timestamp_ms": 1565994158464,
+      "content": "Sagyan voted for \"7:30\" in the poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1565994137916,
+      "content": "Cole created a poll: What time will you get to mit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565994134246,
+      "content": "Alrighty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1565994112385,
+      "content": "I'll try to be a little early to whenever people are showing up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1565994053140,
+      "content": "And it's part of the fun \u00f0\u009f\u0098\u0080",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1565994027742,
+      "content": "Setup should take no more than 5 minutes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1565993992761,
+      "content": "I'll bring a computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565993922340,
+      "content": "@Cole Killian I think we need you there at 7:30 so we can set up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anas Bouhassoun",
+      "timestamp_ms": 1565993250462,
+      "photos": [
+        {
+          "uri": "messages/inbox/FinalKaraoke81619_X0f84X8Dzw/photos/68478587_874524922916762_2547362072673386496_n_2351731948408905.jpg",
+          "creation_timestamp": 1565993250
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Fritz-Gerald Duverglas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sophia Sonnert",
+      "timestamp_ms": 1565993075392,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565992447720,
+      "content": "Cole you bringing a computer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eva Beram",
+      "timestamp_ms": 1565992218114,
+      "content": "i have a family dinner thing so i\u00e2\u0080\u0099ll be on the later side probably, closer to 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1565992139884,
+      "content": "Or another time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1565992126901,
+      "content": "Do you guys like 7:30 or 8 more?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1565992117671,
+      "content": "Fantastic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565991264644,
+      "content": "If you don't think you'll be able to navigate to the room just tell us when your here and someone will come get you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565991235555,
+      "content": "For people that don't know, the address is 77 Mass Ave- mit school of architecture and planning [aka big ass building w pillars]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hazen Emerson",
+      "timestamp_ms": 1565893078908,
+      "content": "\u00f0\u009f\u008e\u00a4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565837519713,
+      "content": "Raiag Khan added Nicholas Hall as a group admin.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1565834749225,
+      "content": "Heyyyoo",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Nicholas Hall"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Madeleine Dickman"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Fritz-Gerald Duverglas"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Mohammed Shafim"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Sagyan Aryal"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Anas Bouhassoun"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Raiag Khan"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565834727953,
+      "content": "Mohammed Shafim added Josephine Weissburg.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Josephine Weissburg"
+        }
+      ]
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565834721370,
+      "content": "Hmmm let me try",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565834711184,
+      "photos": [
+        {
+          "uri": "messages/inbox/FinalKaraoke81619_X0f84X8Dzw/photos/68291358_1451549931636517_3488634808773378048_n_1451549914969852.jpg",
+          "creation_timestamp": 1565834710
+        }
+      ],
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Nicholas Hall"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Fritz-Gerald Duverglas"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565834707561,
+      "content": "Oh my",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565834670576,
+      "content": "Raiag Khan removed Josephine Weissburg from the group.",
+      "type": "Unsubscribe",
+      "users": [
+        {
+          "name": "Josephine Weissburg"
+        }
+      ]
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565834649481,
+      "content": "I have been summoned",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565834639197,
+      "content": "@Raiag",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565834625049,
+      "content": "oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565834623837,
+      "content": "oooh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565834618441,
+      "content": "actually raiag can do it but i cant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565834553332,
+      "content": "gotcha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565834546975,
+      "content": "She can\u00e2\u0080\u0099t see the chat apparently",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565834538025,
+      "content": "@Nicholas can you remove and add Josie again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565834499262,
+      "content": "Sorry technical difficulties haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565834482874,
+      "content": "@Josephine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1565833177532,
+      "content": "Mohammed Shafim added Hanna Carney.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Hanna Carney"
+        }
+      ]
+    },
+    {
+      "sender_name": "Anas Bouhassoun",
+      "timestamp_ms": 1565831681662,
+      "content": "Nicee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565831659904,
+      "content": "yeah we have a couple good ones in mind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Anas Bouhassoun",
+      "timestamp_ms": 1565831632959,
+      "content": "There are mad good rooms in MIT for this type of stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Fritz-Gerald Duverglas",
+      "timestamp_ms": 1565831102898,
+      "content": "Wordd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sagyan Aryal",
+      "timestamp_ms": 1565831098632,
+      "content": "Woo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565831093808,
+      "content": "we will fill in the exact location details sooner to the event",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Eva Beram",
+      "timestamp_ms": 1565831090502,
+      "content": "yas!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565831069885,
+      "content": "hey everybody! the plan is 7:30 pm friday night in a classroom at MIT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565831029188,
+      "content": "Nicholas Hall added Josephine Weissburg and 2 others.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Josephine Weissburg"
+        },
+        {
+          "name": "Ezra Rudel"
+        },
+        {
+          "name": "Eva Beram"
+        }
+      ]
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565830565531,
+      "content": "Nicholas Hall added Melissa Liu and Neely McKee.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Melissa Liu"
+        },
+        {
+          "name": "Neely McKee"
+        }
+      ]
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565830494294,
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565830400288,
+      "content": "Nicholas Hall added Nacie Loh and Sophie Green.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Nacie Loh"
+        },
+        {
+          "name": "Sophie Green"
+        }
+      ]
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1565830327629,
+      "content": "Nicholas Hall added Sophia Sonnert and 7 others.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Sophia Sonnert"
+        },
+        {
+          "name": "Philos Kim"
+        },
+        {
+          "name": "Madeleine Dickman"
+        },
+        {
+          "name": "Andrew Garber"
+        },
+        {
+          "name": "Fritz-Gerald Duverglas"
+        },
+        {
+          "name": "Mohammed Shafim"
+        },
+        {
+          "name": "Hazen Emerson"
+        },
+        {
+          "name": "Anas Bouhassoun"
+        }
+      ]
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565830139853,
+      "content": "Raiag named the group Final Karaoke {8/16/19}.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Final Karaoke {8/16/19}",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/FinalKaraoke81619_X0f84X8Dzw"
+}

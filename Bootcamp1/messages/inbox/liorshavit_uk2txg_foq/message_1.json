@@ -1,0 +1,114 @@
+{
+  "participants": [
+    {
+      "name": "Lior Shavit"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522775302692,
+      "content": "Yyou know it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lior Shavit",
+      "timestamp_ms": 1522773993466,
+      "content": "Hey challenge match today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lior Shavit",
+      "timestamp_ms": 1522506317164,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522506316143,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lior Shavit",
+      "timestamp_ms": 1522506313757,
+      "content": "K mayb Monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522506313633,
+      "content": "We can try next week during practicw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522506302305,
+      "content": "Dang i cant tomorr9w",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lior Shavit",
+      "timestamp_ms": 1522506254518,
+      "content": "I'm not in MA today, but I will be tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522506230938,
+      "content": "U trying to play that challenge match today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522116288638,
+      "content": "Cool cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lior Shavit",
+      "timestamp_ms": 1522115419097,
+      "content": "I'll make sure to play number 8 first",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lior Shavit",
+      "timestamp_ms": 1522115353397,
+      "content": "Whoa will my guy I like the respect for rules",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522112103936,
+      "content": "Ill prolly have time over the weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522112090514,
+      "content": "So in the rules you can only challenge through number 8, but we can still play",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lior Shavit",
+      "timestamp_ms": 1522111106357,
+      "content": "When can you play?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Lior Shavit",
+      "timestamp_ms": 1522111097390,
+      "content": "Hey Will, I want to play a challenge match against you if you are down",
+      "type": "Generic"
+    }
+  ],
+  "title": "Lior Shavit",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/LiorShavit_uk2tXg_FoQ"
+}

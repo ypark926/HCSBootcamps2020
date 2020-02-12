@@ -1,0 +1,106 @@
+{
+  "participants": [
+    {
+      "name": "Cooper Ducharme"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1545710885167,
+      "content": "Kk lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cooper Ducharme",
+      "timestamp_ms": 1545706635632,
+      "content": "Idk maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1545694617330,
+      "content": "yo you want to roll up and then go see fireworks on the 31st in boston?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1543274186553,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cooper Ducharme",
+      "timestamp_ms": 1543274176770,
+      "content": "K hit me up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1543274168975,
+      "content": "Im so down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1543274167139,
+      "content": "Pls lmk after friday tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1543274159076,
+      "content": "This entire week is going to be a gas for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1543274149040,
+      "content": "Yea im pretty busy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cooper Ducharme",
+      "timestamp_ms": 1543271706152,
+      "content": "We have school tomorrow so it\u00e2\u0080\u0099s understandable if nows not good for you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cooper Ducharme",
+      "timestamp_ms": 1543268566388,
+      "content": "Do you want to do something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cooper Ducharme",
+      "timestamp_ms": 1543268545951,
+      "content": "Hey are you free tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1543268326295,
+      "content": "Whats good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cooper Ducharme",
+      "timestamp_ms": 1543265026826,
+      "content": "What\u00e2\u0080\u0099s up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cooper Ducharme",
+      "timestamp_ms": 1543265018569,
+      "content": "Yo",
+      "type": "Generic"
+    }
+  ],
+  "title": "Cooper Ducharme",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CooperDucharme_j9gsspHSaA"
+}

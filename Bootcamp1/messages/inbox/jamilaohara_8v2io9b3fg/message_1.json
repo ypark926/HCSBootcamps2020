@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "Jamila O'Hara"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jamila O'Hara",
+      "timestamp_ms": 1556385972123,
+      "content": "I went to annenberg to look for it lol but I\u00e2\u0080\u0099ll come back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1556385953567,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jamila O'Hara",
+      "timestamp_ms": 1556385943952,
+      "content": "I\u00e2\u0080\u0099ll go outside Harvard hall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1556385938486,
+      "content": "Are you close?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jamila O'Hara",
+      "timestamp_ms": 1556385938432,
+      "content": "Okay I was just at the debate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1556385935504,
+      "content": "Harvard hall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1556385931514,
+      "content": "But im about to leave",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1556385928639,
+      "content": "Debate",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jamila O'Hara",
+      "timestamp_ms": 1556385897775,
+      "content": "Where are you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jamila O'Hara",
+      "timestamp_ms": 1556385895166,
+      "content": "Omg thank you!! Was just looking for it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1556385683966,
+      "content": "We found it so whenever u feel like getting it back lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1556385674087,
+      "content": "Hey you lost your id card for visitas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1556385658198,
+      "content": "Jamila missed your video chat.",
+      "call_duration": 0,
+      "type": "Call",
+      "missed": true
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1556385618845,
+      "content": "You waved at Jamila!",
+      "type": "Share"
+    }
+  ],
+  "title": "Jamila O'Hara",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JamilaOHara_8V2iO9b3Fg"
+}

@@ -1,0 +1,158 @@
+{
+  "participants": [
+    {
+      "name": "Magdalena Gabriella"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564718919714,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Magdalena Gabriella",
+      "timestamp_ms": 1564718918860,
+      "photos": [
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67616228_2521906954541332_8522580120295178240_n_2521906951207999.jpg",
+          "creation_timestamp": 1564718878
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67789035_2434113673578956_8976586063589933056_n_2434113666912290.jpg",
+          "creation_timestamp": 1564718893
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67403502_693341751115254_9124840762620510208_n_693341744448588.jpg",
+          "creation_timestamp": 1564718914
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67403816_376501166384373_8293429664999800832_n_376501159717707.jpg",
+          "creation_timestamp": 1564718894
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/68265711_382966485741990_8936479281022763008_n_382966482408657.jpg",
+          "creation_timestamp": 1564718903
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67583433_2441025269476219_1263391512318705664_n_2441025262809553.jpg",
+          "creation_timestamp": 1564718878
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67518863_335540554017847_8781150891114758144_n_335540550684514.jpg",
+          "creation_timestamp": 1564718883
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67518863_453212452193353_1852280164809965568_n_453212448860020.jpg",
+          "creation_timestamp": 1564718883
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67485414_2053228534783337_5943893206159589376_n_2053228531450004.jpg",
+          "creation_timestamp": 1564718908
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67638862_2359855647563554_6216359012225515520_n_2359855640896888.jpg",
+          "creation_timestamp": 1564718912
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67656558_717879505327747_111042140305358848_n_717879501994414.jpg",
+          "creation_timestamp": 1564718898
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67790924_2510536818985228_8759124078322778112_n_2510536812318562.jpg",
+          "creation_timestamp": 1564718888
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67567945_371868303526176_7785122420116946944_n_371868296859510.jpg",
+          "creation_timestamp": 1564718899
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67683441_604736040348856_2022168820268924928_n_604736033682190.jpg",
+          "creation_timestamp": 1564718888
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67646725_966720927008549_3128272303721283584_n_966720923675216.jpg",
+          "creation_timestamp": 1564718907
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Magdalena Gabriella",
+      "timestamp_ms": 1564718872489,
+      "photos": [
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67404198_290576721773446_1081223291957411840_n_290576715106780.jpg",
+          "creation_timestamp": 1564718862
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67921970_466693380847838_909448570329890816_n_466693374181172.jpg",
+          "creation_timestamp": 1564718870
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67517095_1146968455486327_1687616182447767552_n_1146968448819661.jpg",
+          "creation_timestamp": 1564718862
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67476722_668830556967256_7667547862187638784_n_668830553633923.jpg",
+          "creation_timestamp": 1564718865
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67492875_329642964606720_2587392988938240000_n_329642961273387.jpg",
+          "creation_timestamp": 1564718864
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67641136_2412460222410765_2021806380863717376_n_2412460215744099.jpg",
+          "creation_timestamp": 1564718868
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67624353_737371833347636_8303666908528377856_n_737371830014303.jpg",
+          "creation_timestamp": 1564718869
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67545458_474180373315325_4136745184761217024_n_474180366648659.jpg",
+          "creation_timestamp": 1564718866
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67410308_950770215264184_5697643790274134016_n_950770208597518.jpg",
+          "creation_timestamp": 1564718868
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67819847_428016811131583_7182759553275002880_n_428016804464917.jpg",
+          "creation_timestamp": 1564718864
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67679746_2356949777851330_4138555874253733888_n_2356949771184664.jpg",
+          "creation_timestamp": 1564718865
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/68440766_492876804849446_1377934501941870592_n_492876798182780.jpg",
+          "creation_timestamp": 1564718870
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67556687_1325185964348883_5144358771694239744_n_1325185961015550.jpg",
+          "creation_timestamp": 1564718866
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67620429_573122753092112_7898524236929564672_n_573122749758779.jpg",
+          "creation_timestamp": 1564718867
+        },
+        {
+          "uri": "messages/inbox/MagdalenaGabriella_Slb5b4Fc3w/photos/67454340_474884743295013_1693893320100544512_n_474884739961680.jpg",
+          "creation_timestamp": 1564718869
+        }
+      ],
+      "type": "Generic"
+    }
+  ],
+  "title": "Magdalena Gabriella",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MagdalenaGabriella_Slb5b4Fc3w"
+}

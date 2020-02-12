@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Simon Nicholson"
+    },
+    {
+      "name": "Albert Liu"
+    },
+    {
+      "name": "Xander Phillips"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Xander Phillips",
+      "timestamp_ms": 1521557552166,
+      "content": "What day this weekend works you guys to go shopping?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xander Phillips",
+      "timestamp_ms": 1521557521836,
+      "content": "Bruvs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xander Phillips",
+      "timestamp_ms": 1521557518346,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Xander Phillips",
+      "timestamp_ms": 1521557513078,
+      "content": "Xander Phillips added you.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "William Cooper"
+        }
+      ]
+    },
+    {
+      "sender_name": "Xander Phillips",
+      "timestamp_ms": 1521557500038,
+      "content": "Xander created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Simon, Albert and Xander",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/SimonAlbertandXander_-sNPkYadwg"
+}

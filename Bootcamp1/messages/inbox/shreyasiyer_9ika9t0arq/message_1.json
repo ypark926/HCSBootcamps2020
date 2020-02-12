@@ -1,0 +1,630 @@
+{
+  "participants": [
+    {
+      "name": "Shreyas Iyer"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566928251661,
+      "content": "over the next few days i might go home and grab some more stuff but its mostly done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566928238869,
+      "content": "yo i just moved my stuff in btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566863036614,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1566862927307,
+      "content": "Arrangements*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1566862914921,
+      "content": "Ight I'm just gonna pick a bed and sleep on it TN...we can figure the room out tmrw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566862256026,
+      "content": "Ill come by to see the room at somw point i think but im sleeping at home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566862220773,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1566861733093,
+      "content": "Are you staying in the room TN?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1566334049505,
+      "content": "Ight forsure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566334028669,
+      "content": "I'll catch u later tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566334019660,
+      "content": "Just ate at felipes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1566333512687,
+      "content": "Where u headed?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566333365834,
+      "content": "Want to come?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1566333365548,
+      "content": "Probably going for some food in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1566324762369,
+      "content": "Yo r u here for fop? Wanna link up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565389548448,
+      "content": "Yeah I Havent got anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565377670909,
+      "content": "The last one I got was like the 17th",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565377633003,
+      "content": "o also have you gotten any emails recently for fop?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565300879454,
+      "content": "Ig i just didn't pay attention when i signed up dam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565300101153,
+      "content": "Yeah I was down to do everything except switch hahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565299111507,
+      "content": "Idk how i feel abt canoeing half the time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565299102817,
+      "content": "Yea i didnt even know is signed up for switch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565299091730,
+      "content": "fair",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565299086069,
+      "content": "Also, go big or go home \u00c2\u00af\\_(\u00e3\u0083\u0084)_/\u00c2\u00af",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565299070063,
+      "content": "Hahahaha true, but Id rather hike than do anything on the water. Everytime I've gone canoeing/kayaking it's always ended badly lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565298328480,
+      "content": "Id die",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Shreyas Iyer"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565298315029,
+      "content": "Thats like 10 miles a day?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565288369980,
+      "content": "Idk what difficulty tho but I think C",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565288359986,
+      "content": "Backpacking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565274702828,
+      "content": "You?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565274699222,
+      "content": "Switch I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565225478149,
+      "content": "U said you're doing fop, right? What type of trip r u on?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565224483631,
+      "content": "Thinking abt some of the climate change ones",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Shreyas Iyer"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565224472379,
+      "content": "Nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565215790069,
+      "content": "Theres one on VC and entrepreneurship that I'm interested in...I've mainly been looking at spring ones tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565214879760,
+      "content": "Have u looked at any seminars yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565214864351,
+      "content": "I\u00e2\u0080\u0099ve heard they are less work so I wanted to have it the same semester as cs 61 to balance things out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565214842683,
+      "content": "Yea the seminars seems really cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565213937563,
+      "content": "Math 23a prob, CS 50, Tamil 101a, and expos...thinking about a seminar for spring semester tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565213865393,
+      "content": "Nice nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565213847725,
+      "content": "U?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565213846065,
+      "content": "21a I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565213840805,
+      "content": "The all purpose one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565213805513,
+      "content": "Which multi class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565213744370,
+      "content": "Multi, cs 61, expo writing and a freshman seminar I think",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Shreyas Iyer"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565213541706,
+      "content": "What classes are you thinking about for the first semester",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565213315864,
+      "content": "Oo ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1565203894454,
+      "content": "I'm not sure but I assume sometime around the first week of September after the shopping period",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565197443612,
+      "content": "I haven't heard anything abt it and im getting a little anxious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565197434128,
+      "content": "yo do you know anything about when course selection starts?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564639278353,
+      "content": "That",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564639277074,
+      "content": "It be like thay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564632289957,
+      "content": "yea i didn't like the whole thing but a few songs on it i fw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564630578666,
+      "content": "Dudes here dont like it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564630541729,
+      "content": "Oo yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564627953419,
+      "content": "It's so hyped up around here cuz I'm near Chicago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564627945232,
+      "content": "Lol I thought it was different",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564622037569,
+      "content": "You thought it wqs good?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564617144725,
+      "content": "Not really. Chance's new album is about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564616413198,
+      "content": "U?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564616411542,
+      "content": "Not particularly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564610896641,
+      "content": "Any Good stuff u heard recently?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564610867691,
+      "content": "Hahaha I feel that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564609845655,
+      "content": "Maybe other than death metal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564609832915,
+      "content": "I bet i could pick pieces from a million genres that i like",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Shreyas Iyer"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564609807035,
+      "content": "Im into a ton of stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564609802647,
+      "content": "Im into that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564608281896,
+      "content": "I'm a hip-hop/rap aficionado myself \u00f0\u009f\u00a7\u0090",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564608267441,
+      "content": "What kind of music r u into",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564599097013,
+      "content": "Comp sci/ math",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "William Cooper"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564599089743,
+      "content": "U?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564599087545,
+      "content": "But it could easily change",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564599078404,
+      "content": "Comp sci",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Shreyas Iyer"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564599052692,
+      "content": "What r u interested in academically?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564599043971,
+      "content": "Yeah maybe we'll see each other at FOP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564598644062,
+      "content": "See u at move in day ig",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564598636538,
+      "content": "Its all good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564598633672,
+      "content": "Fop too!",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Shreyas Iyer"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564598497849,
+      "content": "I'm coming the 20th for fop but I doubt I'll have much time to hang...r u doing a preorientation program?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564598286678,
+      "content": "I live right next door basically but if u come early we can go out to grab a bite to eat or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564598268937,
+      "content": "when are you coming to cambridge?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564598259194,
+      "content": "fair",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564598236674,
+      "content": "Was not trying to walk to another building especially in winter",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564598226557,
+      "content": "At least there's a laundry room tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564598218540,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564597069116,
+      "content": "We'll manage",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564597063496,
+      "content": "no common room or study rooms or kitchen or anything",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00a2",
+          "actor": "Shreyas Iyer"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564597054667,
+      "content": "Other than that its pretty ghetto tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564597045662,
+      "content": "yeeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564597013431,
+      "content": "I hear Stoughton rooms are super big",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564597003487,
+      "content": "Just saw the email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Shreyas Iyer",
+      "timestamp_ms": 1564597000259,
+      "content": "Littttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564596899605,
+      "content": "roommates!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564596897269,
+      "content": "yoooo",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shreyas Iyer",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShreyasIyer_9Ika9T0arQ"
+}

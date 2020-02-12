@@ -1,0 +1,7059 @@
+{
+  "participants": [
+    {
+      "name": "Phoenix Tamaoki"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1567049548172,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1567049546668,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1567049444243,
+      "content": "Maybe when I come back for thanksgiving we can hit or somethin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1567049430867,
+      "content": "Break",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1567049430274,
+      "content": "Ty*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1567049428696,
+      "content": "I'll see u on winter beach",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Phoenix Tamaoki"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1567049426410,
+      "content": "Ty tt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1567049412086,
+      "content": "Goodluck to u too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1567049406925,
+      "content": "Thanks so much bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1567048148557,
+      "content": "I know it's a bit late for goodbyes, but If you're getting this, it means I like you and appreciate your friendship, and also that I haven't seen you in a while and I wish we'd hung out more. Anyway just a final reminder: have fun in college :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564325301529,
+      "content": "Ok I'm walking over",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564325238928,
+      "content": "Im here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564324504992,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564324493300,
+      "content": "I'll be at pembeton in the blue car is that ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564323722875,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564323699073,
+      "content": "I'll be there in like 20",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564290898944,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564290889468,
+      "content": "Okay sounds like a plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564290874848,
+      "content": "Ok im picking up alfredd too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564290834363,
+      "content": "Right by pemberton",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564290827809,
+      "content": "1 Sargent street",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564290816747,
+      "content": "Address?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564290810080,
+      "content": "10:45 or so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564288850740,
+      "content": "Home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564288848725,
+      "content": "Sry just got h ok me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564288834854,
+      "content": "Yeah what time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564282805420,
+      "content": "Im driving alfred so i can pick u up too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564282794400,
+      "content": "Yo do u need a ride for tomorrow morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1564016066766,
+      "content": "Lol ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1564014634556,
+      "content": "And can u bring a few balls?  Idt we have very good ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563994178776,
+      "content": "Ok i think we're calling it 11 am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563993501463,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563993387999,
+      "content": "That work for u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563993384707,
+      "content": "Ok they said theyre all down for sunday late morning at mit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563910924853,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563910876441,
+      "content": "Ill let them know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563910857020,
+      "content": "Sunday maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563910838945,
+      "content": "Saturday is beach right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563910806788,
+      "content": "What abt weekend?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563910794923,
+      "content": "Dang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563910718621,
+      "content": "No can't sry I've got work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563910658497,
+      "content": "Hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563910642603,
+      "content": "People wanted to play soccer at 5 but we could still do the morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563910628642,
+      "content": "What abt thursday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563910622614,
+      "content": "Frick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563910595111,
+      "content": "Got tennis at 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563910589841,
+      "content": "Don't think I can do friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563910540776,
+      "content": "Oof",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563910469560,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563910466752,
+      "content": "That still work for u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563910463669,
+      "content": "Alfred cant do tomorrow so we decided friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852486477,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852467815,
+      "content": "Okey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852462708,
+      "content": "And which courts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852458946,
+      "content": "Ill lyk when they respond friday or wednesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852449081,
+      "content": "Yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852377978,
+      "content": "Nee policy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852372341,
+      "content": "Ahh ok just keep in mind we might need to book em",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852361605,
+      "content": ":))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852355167,
+      "content": "U should b fine I believe in u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852349157,
+      "content": "I think we are decieing between those clay courts or the new mit ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852330160,
+      "content": "Yea its wild",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852303604,
+      "content": "U can make crazy shots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852289085,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852285287,
+      "content": "It's much better for sliding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852278434,
+      "content": "The shoes part I can understand tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852277766,
+      "content": "Perhaps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852272354,
+      "content": "Uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852268152,
+      "content": "Slippery is fun tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852259011,
+      "content": "I mean....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852258697,
+      "content": "More slippery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852252789,
+      "content": "Gets shoes dirty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852249359,
+      "content": "Doesnt bounce as much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852232294,
+      "content": "Lol why not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852225944,
+      "content": "But idk abt clay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852221494,
+      "content": "Alfred wants to play at the cambridge club",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852211514,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852199279,
+      "content": "Me/Jonas vs you/Alfred",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852159114,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852155107,
+      "content": "Ok ill tell them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852151319,
+      "content": "Perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852145613,
+      "content": "Also morning works better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852132524,
+      "content": "Wednesday and Friday both work but I would prefer Wednesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852043148,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852035432,
+      "content": "Gimmie a sec",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563852024275,
+      "content": "Is friday good?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852013758,
+      "content": "Hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852007795,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563852002859,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563851997300,
+      "content": "We were gonna ask u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563851991555,
+      "content": "U in town?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563851990552,
+      "content": "What day u thinking?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563851984706,
+      "content": "We can all play any week day before 3 pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563851971226,
+      "content": "For a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563851967951,
+      "content": "Ok so jonas alfred and i are in town",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563851963409,
+      "content": "Anyway what's up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563851957565,
+      "content": "Tryna get a new one on thus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563851951121,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563851945132,
+      "content": "I should make an announcement or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563851943782,
+      "content": "Oo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563851930138,
+      "content": "Oh yea my phone is broken lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563851900210,
+      "content": "Or did u switch numbrs or somethinf",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563851889650,
+      "content": "Did u get my texts?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1563851375461,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1563849226994,
+      "content": "Lo?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552676148554,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552676012013,
+      "content": "Driving ho.e rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552676000553,
+      "content": "10 or 15 mins maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552675868695,
+      "content": "When u gonna be here?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552675861995,
+      "content": "Ayyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552675858593,
+      "content": "Yup yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552675839877,
+      "content": "Did u bring it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552675839628,
+      "content": "Nvm then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552675839192,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552675766931,
+      "content": "What",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552675755320,
+      "content": "Here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552675755312,
+      "content": "Willlll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552675752963,
+      "content": "I'm already he",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552675741600,
+      "content": "Yee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552675499311,
+      "content": "Yo bring that speaker",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552533210772,
+      "content": "Ok sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552533201370,
+      "content": "we'll see how friday works out and if not then we'll just see them at tryouts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552533188510,
+      "content": "rough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552533187045,
+      "content": "dang i prolly cant to saturday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552533136104,
+      "content": "I cant do sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552533124429,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552533090972,
+      "content": "we could try over the weekend if people are down i guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552533077608,
+      "content": "i mean season starts on monday tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552533064187,
+      "content": "If it rains later maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552533054391,
+      "content": "Yea idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552533047499,
+      "content": "Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552533047228,
+      "content": "but friday might rain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552533044296,
+      "content": "me and oscar prolly wont be able to come tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552533038346,
+      "content": "captains practice tomorrow or thursday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552533030848,
+      "content": "dang ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552533015982,
+      "content": "Das why i use messenger",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552532998665,
+      "content": "oh wattt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1552532989929,
+      "content": "I csnt gc with my phone plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552526703416,
+      "content": "we should start a text gc with oscar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1552526696644,
+      "content": "yo whats ur #?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1551158441921,
+      "content": "We could just talk with him then i guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1551158430996,
+      "content": "O wait wednesday is the sports meeting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1551158420278,
+      "content": "Ok lets let oscar know too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1551137185234,
+      "content": "If he has a",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1551137182104,
+      "content": "Or during lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1551137175318,
+      "content": "Ok i can go after on wednesday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1551134971265,
+      "content": "we should meet w mr nicholson soon anyways to talk about the preseason meetings",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1551134953459,
+      "content": "so wtw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1550345420151,
+      "content": "Im skiing until thursday tho so im free after thay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1550345258231,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1550341877370,
+      "content": "Nkt dure yet, but sometime over break",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1550335744549,
+      "content": "When were u guys thinking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1550335734888,
+      "content": "Ya would love to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1550332623124,
+      "content": "Hey would u b interested in paddle tennis with me oscar and mr nicholeson",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529537979705,
+      "content": "Lemme think of one for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529537972865,
+      "content": "Lmao deal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529536220856,
+      "content": "U may call me capt phenom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529536195375,
+      "content": "Likewise",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529536194747,
+      "content": "Um",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529533531151,
+      "content": "I am now the captain of your team and you shall address me accordingly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529533516520,
+      "content": "Nevertheless",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529533033800,
+      "content": "Ur welcome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529533021768,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529532192994,
+      "content": "Because im a captain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529532189188,
+      "content": "Now my mom finally thinks its ok for me to play a sport",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529532179331,
+      "content": "Actually thanks dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529532174764,
+      "content": "Damnnnn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529532164701,
+      "content": "I gotchu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529532161149,
+      "content": "Yep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529532154975,
+      "content": "My man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529532152988,
+      "content": "And had a conversation w nicholeson today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529532135696,
+      "content": "Guess who voted for u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529528934656,
+      "content": "Yo guess who are the captains for next year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529455580532,
+      "content": "Wait wut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529452983538,
+      "content": "that one, and pe are fills",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529452974841,
+      "content": "the ta spot is the one that says TA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529448154172,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529448110320,
+      "content": "NO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529447191758,
+      "content": "Or the one ur ta for?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529447153429,
+      "content": "Comp sci 2?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529445596315,
+      "content": "oops",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529445590988,
+      "content": "COMPUTER SCI IS FILL I THINK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529444166432,
+      "content": "2 of them are full year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529444161992,
+      "content": "Yo u dont have filler classes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529444116532,
+      "content": "not quitew sure actualy lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529444110042,
+      "photos": [
+        {
+          "uri": "messages/inbox/PhoenixTamaoki_Bq1rr3qxmQ/photos/35686684_438338769961865_4460609160811118592_n_438338763295199.png",
+          "creation_timestamp": 1529444109
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529444071436,
+      "content": "What are the filler?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529444057225,
+      "content": "economics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529444048319,
+      "content": "physics 1 and ap lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529444036471,
+      "content": "and 2 filler classes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529444029018,
+      "content": "TA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529444019176,
+      "content": "What else u have?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443997229,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529443995176,
+      "content": "nuuuuuuuu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529443991367,
+      "content": "why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529443990341,
+      "content": "ugh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443987128,
+      "content": "Evan has 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443983691,
+      "content": "Dammmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529443975975,
+      "content": "pd2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443954314,
+      "content": "We are all waiting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443950305,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443948445,
+      "content": "????",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443936545,
+      "content": "So??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529443905744,
+      "content": "ahh got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443894333,
+      "content": "It should say studnet schedules sheets or something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443885142,
+      "content": "On the home page",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443873321,
+      "content": "On the right side",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529443865363,
+      "content": "wheere tf is that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443847135,
+      "content": "Published reports",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529443837938,
+      "content": "yea but idk where to look",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529443584070,
+      "content": "Aspen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529443568667,
+      "content": "In email?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529442924642,
+      "content": "I got 3rd period",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529442921206,
+      "content": "What period u got ap bio?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529442915656,
+      "content": "Schedules came",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529442910349,
+      "content": "Yoo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529328990388,
+      "content": "Lol gl w that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529328984344,
+      "content": "And hell give me more extra credit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529328978502,
+      "content": "Maybe ill tell mr mac its my bday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529328957247,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529328952676,
+      "content": "Celebrate by knowing u failed the final",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529328940043,
+      "content": "Ty ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529328927476,
+      "content": "Yo happy birthday btw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529328911175,
+      "content": "But luckily i had a bunch of sourcea from a different project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529328898846,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529328887680,
+      "content": "Still not gonna get a good grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529328878894,
+      "content": "I mean... i did it all last nigbt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529323684248,
+      "content": "Oofff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529323532676,
+      "content": "Final exma folder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529323511274,
+      "content": "I didnt know there was a rubric",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529323503530,
+      "content": "Whereeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529323435082,
+      "content": "At the rubric",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529323137786,
+      "content": "Yea look",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529322009651,
+      "content": "Extra credit is only 3 points more on the final?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529321992927,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529321918905,
+      "content": "Only 3 pta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529321915691,
+      "content": "Ywa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529287417979,
+      "content": "I hope i get them back with the extra credit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529287406693,
+      "content": "But hes going to take off points for that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529287398046,
+      "content": "Thing*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529287395014,
+      "content": "I just put the sources in the speaker comments this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529287382689,
+      "content": "We cant do footnotes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529287376980,
+      "content": "We def do but idk hos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529286188467,
+      "content": "ok but we dont have to cite them within the presentation???",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529284744928,
+      "content": "He wants a formal bibliography",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529284739827,
+      "content": "Yea i did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529284485887,
+      "content": "Do we make a doc for sources if we have a presentation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529284474433,
+      "content": "Thats what im asking abt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529284462013,
+      "content": "How did u cite ur sources on the slides?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529284452665,
+      "content": "Theres a thing on classroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529278396620,
+      "content": "How do we do the bibliography",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529278388578,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529207431783,
+      "content": "Like the white one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529207426124,
+      "content": "Just an upgrade from my current",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529207415899,
+      "content": "Pure strike",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529203676997,
+      "content": "Hwo do we do the bibliohraphy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529201489177,
+      "content": "Which one did u get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529201474070,
+      "content": "Nice work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529201469953,
+      "content": "Wow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529196904979,
+      "content": "Got a new racket and its bangin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529196896398,
+      "content": "6-222222222",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529196036015,
+      "content": "Score?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529195986044,
+      "content": "Nice willllll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1529195983089,
+      "content": "Ayyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529189283977,
+      "content": "I mean a set",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529189280163,
+      "content": "Yo guess who just beat rafa in a match",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528896718758,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528895397850,
+      "content": "Asian club today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528679502356,
+      "content": "Ask oscar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528679490147,
+      "content": "He doesnt wanna do others tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528679479757,
+      "content": "My dad just strings mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528679470867,
+      "content": "Not quite sure lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528678417991,
+      "content": "yo where can I get my racket restrung?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528588638572,
+      "content": "Dont think so but idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528583410307,
+      "content": "Did we have hw for hist",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528313899920,
+      "content": "You understand im going to have to beat you up tomorrow tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528313882344,
+      "content": "Yea ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528309964594,
+      "content": "I have tennid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528309959750,
+      "content": "Gth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528309958312,
+      "content": "Sry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528309405360,
+      "content": "Come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528307226108,
+      "content": "Ok....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528304250485,
+      "content": "I talked with evan and albert yesterday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528303974383,
+      "content": "I dont believe u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528303899358,
+      "content": "Common we'll actually have people this time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528303871352,
+      "content": "Because...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528303704539,
+      "content": "Not really tryna go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528303679679,
+      "content": "Well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528303588439,
+      "content": "And?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528303135020,
+      "content": "Abt that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1528303134417,
+      "content": "Uhhhhhhgg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1528299439293,
+      "content": "Come to asian club today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1526698913755,
+      "content": "Just say it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1526695619164,
+      "content": "But idk how to use them as my argument",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1526695609868,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1526690027730,
+      "content": "It doesnt mattered which one it is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1526690004081,
+      "content": "U havr to have a minimum of 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1526689984830,
+      "content": "Wut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1526689320549,
+      "content": "How am i supposed to use the cases not of my opinion in favor of my argumeng",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1526689089534,
+      "content": "What am i suoposed to say abt them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1526689080527,
+      "content": "Idk really how to use the court cases in my argument",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1526689069014,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1526226993870,
+      "content": "Where u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1526222168313,
+      "content": "Now i am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1526221013037,
+      "content": "R u in weston rn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525981634474,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525973861095,
+      "content": "I showed up after my test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525973848925,
+      "content": "No skipping fir u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525973841673,
+      "content": "Get yo as here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965969012,
+      "content": "You could still play",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965963262,
+      "content": "Like feeling week and constantly coughing and sniffing?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965948823,
+      "content": "Like dyong?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965939229,
+      "content": "...i wish i could see but i have an ap test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525965923393,
+      "content": "Bro im dieeeengggg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965918031,
+      "content": "If ur health is good enough to be in school you can fake it against weston num 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965897302,
+      "content": "Pleaseeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965887642,
+      "content": "Which none of us are going to anyways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965880127,
+      "content": "If u dont come ur just resting to play waltham tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525965870488,
+      "content": "Sry...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965862659,
+      "content": "Dont make me play with zev",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525965856964,
+      "content": "Please come today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525921293278,
+      "content": "Like 11",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525921290870,
+      "content": "YO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525921072658,
+      "content": "how many footnotes do u have",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525921064168,
+      "content": "YO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525905266797,
+      "content": "Lol good job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525903695945,
+      "content": "I finished last night cuz that's when i thought it wssdue",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525903667415,
+      "content": "...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525903515139,
+      "content": "Hows that hostpriography thong goi g",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525903503372,
+      "content": "So yh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525825921765,
+      "content": "Its on google classroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525825912187,
+      "content": "We had a conversation then started another short project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525825896614,
+      "content": "Try to use some grammar huh?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525817784168,
+      "content": "What dod ee di in class tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525817372257,
+      "content": "Don't think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525817165976,
+      "content": "Also fo we have hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525814975403,
+      "content": "What ddid we do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525663526487,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525660398351,
+      "content": "Well r u staying here?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525657533929,
+      "content": "Noope",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525654676486,
+      "content": "U know what ur doing over the summer yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525401124949,
+      "content": "Oh ic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525401124153,
+      "content": "I think its specifically for crls students",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525401106913,
+      "content": "Its not on any of their websites and i didnt read through that dyk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525401088998,
+      "content": "I did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525401082124,
+      "content": "I mean u could have found it by just looking it up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525401063897,
+      "content": "... ty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525401057252,
+      "content": "Gl with that tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525401048819,
+      "content": "Lol its too late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1525400381985,
+      "content": "Sent email",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1525372251310,
+      "content": "Audible internship pls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524860479720,
+      "content": "But i believe there r special utr tournwys too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524860461643,
+      "content": "I do usta",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524860459465,
+      "content": "And as for torunwys there are many dif ways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524860390540,
+      "content": "They should b there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524860353993,
+      "content": "And how do u join tournaments and stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524860344147,
+      "content": "Yo how do u get the matches to show on the utr website",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524853442653,
+      "content": "Dang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524853181333,
+      "content": "I thinm we got a hreade? Not surw rho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524853147080,
+      "content": "Hw is light4 sentanves eaxh side",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524853127990,
+      "content": "Just a comparison of the narratives right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524853110772,
+      "content": "How long does the homeowkr have to be?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524853096529,
+      "content": "Did u get a grade for anything u did in class?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524853087522,
+      "content": "On the otherhand im done with hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524853079752,
+      "content": "Yeah... ik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524853058821,
+      "content": "Should have come man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524853049703,
+      "content": "Breh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524852713273,
+      "content": "Honestly want that important",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524852705273,
+      "content": "Just abt the hostory of men \"mansplaining\" and stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524851955777,
+      "content": "Gender discussion?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524851943100,
+      "content": "What was thT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524851394693,
+      "content": "We had the gender discussion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524851386842,
+      "content": "Now we r doing the hw for tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524851378149,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524849901971,
+      "content": "Yoy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524849268718,
+      "content": "Commn man i literalltbtold maclaury we would go togerther",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524849247287,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524849212814,
+      "content": "What r we doing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524849203993,
+      "content": "Basicaly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524849200458,
+      "content": "I chickened out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524849199660,
+      "content": "What",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524849193461,
+      "content": "We have stuff to do lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524849130974,
+      "content": "Y u not combs?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524849125815,
+      "content": "Media cafe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524849122969,
+      "content": "Show",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524849100063,
+      "content": "Whwrer u go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524792304297,
+      "content": "Amazing*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524790667955,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524787978035,
+      "content": "Amazik ngly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524787970100,
+      "content": "Im actualy doing hw rn :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524786474252,
+      "content": "Dont play too much fortnite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524786465473,
+      "content": "Lol u got time today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524786427558,
+      "content": "I nees more sleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524786422809,
+      "content": "But i kinda tanked the second set",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524786414835,
+      "content": "Well i thinm last year was like 2 and 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524786403925,
+      "content": "3 and 0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524786026574,
+      "content": "Better than last year i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524786019300,
+      "content": "What was the score for u tosay?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524785989098,
+      "content": "Okey cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524785687150,
+      "content": "Just that packet that u already read",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524784161119,
+      "content": "do we have hw?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524708928548,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524704845339,
+      "content": "Come with us?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524704840330,
+      "content": "Im down to apply and we are going to shavits room tomorrow durinh lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524704821945,
+      "content": "Albert talked to me about the astrophysics thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524704810883,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524613652723,
+      "content": "We shall see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524613646834,
+      "content": "Lll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524612890922,
+      "content": "its aboutta go down after i play a few matches",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524612876102,
+      "content": "its just the one they gave me to start",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524612869123,
+      "content": "ik i thought it was crazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524612837014,
+      "content": "Pretty good i tjink",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524612828075,
+      "content": "Lol thafs actualy not. Bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524604466692,
+      "content": "my utr rating is 6.5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524604462398,
+      "content": "yoooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524526843048,
+      "content": "i dont think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524524292357,
+      "content": "We dont have hw, or do we?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524351228717,
+      "content": "Lol same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524351223137,
+      "content": "extra creed here i come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524351213671,
+      "content": "tru tri",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524351109313,
+      "content": "Well i would have gotten 83 if i hadnt turned it in late...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524350334485,
+      "content": "mine wqs like exactly 5 pages too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524350327195,
+      "content": "i got an 86 and im pissed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524350321006,
+      "content": "78 thats a dam force",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524346584144,
+      "content": "Probably why it wasnt a great grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524346575799,
+      "content": "Sooo uh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524346573536,
+      "content": "Also it want exactly 5 pgs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524346566575,
+      "content": "Ik that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524346564685,
+      "content": "5 pts off bc it was late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524346556288,
+      "content": "78.....",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524346543720,
+      "content": "It was kinda crazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1524346538554,
+      "content": "Ok i can see why he gave me such a bad grade but still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524343677715,
+      "content": "if he does this to me i wonder what he does to the kids who dont even do any work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524343659348,
+      "content": "my writing wasnt even that bad and now my grades are coming back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1524343645552,
+      "content": "dooooood mr mac hates me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523552971092,
+      "content": "Ya im here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523552881867,
+      "content": "U here today? U better show up for the game",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523552871550,
+      "content": "That big packey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523552868313,
+      "content": "No but there is for tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523552324516,
+      "content": "Did we have hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523501549346,
+      "content": "i just worried its not \"clearly\" shown",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523501536727,
+      "content": "same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523501476917,
+      "content": "But i did use 2 primary and 3 secondary so i hope he knows lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523501455679,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523501088177,
+      "content": "also do u know wat it mean to \"clearly cite 2 primary/3 secondary\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523500685750,
+      "content": "I saved u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523500680170,
+      "content": "Tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523500677260,
+      "content": "Dammit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523500666422,
+      "content": "times new roman size 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523500657731,
+      "content": "Wait what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523500652953,
+      "content": "I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523500616958,
+      "content": "oh then u gotta change urs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523500285416,
+      "content": "does it say if he wants the links in the citations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523500275765,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523499253163,
+      "content": "Footnoot i used 8",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523499242357,
+      "content": "Room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523499240286,
+      "content": "Idk but its on classroo.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523499195523,
+      "content": "and is the bibliography MLA",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523499184162,
+      "content": "yo what font and size do we use for the footnot citations",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523404422139,
+      "content": "Ya haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523404406747,
+      "content": "Thwnk goodness its dub spacez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523404384399,
+      "content": "Cool cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523404362770,
+      "content": "5 pg min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523404347639,
+      "content": "Wait i forget how long it has to be?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523403487535,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523403466776,
+      "content": "One page and a half with research",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523403457241,
+      "content": "Thats fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523403441541,
+      "content": "i worked for just over an hour",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523403441448,
+      "content": "You can get sooooo much done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523403436266,
+      "content": "To be extra efficient you do little mindless chores during your breaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523403415829,
+      "content": "Secret to being efficient is to take breaks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523403404552,
+      "content": "How long did u work on it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523400242159,
+      "content": "Maybe I need to just build up the work ethic and get used to this stuff, but I literaly have a pg and a half and my brain is dying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523400212948,
+      "content": "its sooo hard to work on this essay for long pds of time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523239230264,
+      "content": "Its late mang i suggest u dont start today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523239218549,
+      "content": "Then databases",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523239177210,
+      "content": "crls library",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523239169945,
+      "content": "Its in the top right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523239159882,
+      "content": "ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523239152116,
+      "content": "Go to the school websitr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523239115477,
+      "content": "how do u get there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523239070233,
+      "content": "Pearl k wise?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523239058733,
+      "content": "school library?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523238898204,
+      "content": "Sources are there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523238894353,
+      "content": "Go to the school library website",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523238874956,
+      "content": "Lol u just started?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523238677682,
+      "content": "I thought it was the library, but it says paghe not found",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523238651993,
+      "content": "so where r we supposed to go for research'",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523238638928,
+      "content": "yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523229429499,
+      "content": "lol, if we both agree then it should b fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523229251569,
+      "content": "Lol ive been forcing real matches but i guess nicholson doesnt really care that much",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523226161296,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523226158290,
+      "content": "We'll figure it out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523226136289,
+      "content": "...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523220556533,
+      "content": "No pro sets",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523220549505,
+      "content": "To get a top 7 spot you have to play a real match",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523220537061,
+      "content": "But",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523220483778,
+      "content": "86",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1523220427928,
+      "content": "Too close",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1523220159970,
+      "content": "Yo what was the score with u and oscar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1522376784253,
+      "content": "Finaly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1522376784130,
+      "content": "Yessss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522376194395,
+      "content": "Yooo u guys are gonna b teammates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1522375669932,
+      "content": "Yes derek is at bl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1522375659705,
+      "content": "He told me avout that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1522375655595,
+      "content": "Oh yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522375643347,
+      "content": "Is bl the one with derek schen?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522375634812,
+      "content": "Two teams are coming from philly to play us and boston latin in a 2 day tournament",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522375614269,
+      "content": "U mightve been a little late to practice today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522375605401,
+      "content": "Did anyone tell u about it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1522375586995,
+      "content": "Whats bostob phillys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1522375552256,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522375338735,
+      "content": "For april?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522375332640,
+      "content": "Yo did u look at the document for the boston philly tennis tourney thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1522066054992,
+      "content": "Forgot to remind u too bring gross grips yesrerday so here's ur reminder",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805894925,
+      "content": "I'm trying to b done with it as soon as i can",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805840991,
+      "content": "Why does it matter u get sxores so soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805824567,
+      "content": "But...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805801342,
+      "content": "Yea that was my oroginal plan",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805782880,
+      "content": "Me and phebs r planning on june",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805779660,
+      "content": "Thats what i was saying but i want scores back by june",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805757452,
+      "content": "Dont u have AP to study 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805755145,
+      "content": "Ill do some sat prep with u too ive never gone to thay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805748941,
+      "content": "Why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805742060,
+      "content": "Bc this whooped my asss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805741517,
+      "content": "Me too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805735017,
+      "content": "Ima actualy study for this next one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805733366,
+      "content": "May",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805730762,
+      "content": "Albert and i are retaking in mau",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805724500,
+      "content": "I need at 1500 atleast lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805717213,
+      "content": "Welp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805717053,
+      "content": "But thats out thw wijndow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805711592,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805706066,
+      "content": "I wqs hoping i might not even have to take it again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805705968,
+      "content": "Whhyyyyyyyyyyyyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805699059,
+      "content": "Lol then theres me at 1410",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805693459,
+      "content": "Pissed i cant get to 1500",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805686072,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805680045,
+      "content": "Too good for a freshman",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805677781,
+      "content": "U got 1490?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805667279,
+      "content": "Sammmmeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805665464,
+      "content": "1480",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805662467,
+      "content": "Ima havr to atudy sum english",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805658083,
+      "content": "What did pheobe get?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805649683,
+      "content": "Yuh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805641617,
+      "content": "Ic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805632437,
+      "content": "Than my super score would b 800/800",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805624225,
+      "content": "So if i got 690/800 on one and 800/200 on the other",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805623235,
+      "content": "750",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805620326,
+      "content": "Ohh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805607916,
+      "content": "And combine them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805604662,
+      "content": "Colleges take the best score from eqch section or all of ur tests",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805591540,
+      "content": "Its a little complicated to explain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805578252,
+      "content": "Jist tell me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805576830,
+      "content": "It bothers me that u dont know these things",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805568838,
+      "content": "What",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805564917,
+      "content": "Bruhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805561849,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805558121,
+      "content": "Super scoring?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805558091,
+      "content": "Super acore",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805550083,
+      "content": "Whats that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805549177,
+      "content": "Thats not even that bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805537198,
+      "content": "If u got a goof math score it could b good for super scoring",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805530263,
+      "content": "...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805528512,
+      "content": "660",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805520350,
+      "content": "Howd you do on english?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805506578,
+      "content": "Ye my sister did really well on a test i took a long time ago anf still holds it ober me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805496721,
+      "content": "1410",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805494305,
+      "content": "I di soooooooooooo bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805484342,
+      "content": "But atill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805481342,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805480780,
+      "content": "She wont",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805472451,
+      "content": "I just panicked and bombed that sextion\u00f0\u009f\u0098\u00a3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805472169,
+      "content": "I hope she doesnt hold it over you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521805466350,
+      "content": "That sucks man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805449574,
+      "content": "Although i did really eeally bad on engliah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521805439661,
+      "content": "Phoebe did better than me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521804181375,
+      "content": "Idk.how to improve my engl8sh scores",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521804070912,
+      "content": "Ohhh, so close doe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521803954476,
+      "content": "1490 :(((((",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521803925441,
+      "content": "So 1500?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521803916406,
+      "content": "Ahh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521803901674,
+      "content": "I got screwed overby english",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521803885581,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521803879471,
+      "content": "Thats competetive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521803877641,
+      "content": "Idk yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521803874062,
+      "content": "Um ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521803865278,
+      "content": "I also just realiz3d that u and ur sister took the same test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521803849379,
+      "content": "Howd u do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521803836059,
+      "content": "What",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521803563864,
+      "content": "Brehhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768889423,
+      "content": "Love it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768882944,
+      "content": "Pressure :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768881897,
+      "content": "Fer sher",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768877712,
+      "content": "Oite ttyl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768877277,
+      "content": "This years crunch time for us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768869680,
+      "content": "Yea*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768864134,
+      "content": "Tru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768863419,
+      "content": "Ywa?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768860264,
+      "content": "Gonne shwr, ttyl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768857182,
+      "content": "U dont really habe to care if u sont want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768850292,
+      "content": "Ywa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768843297,
+      "content": "Also freshman year is the time to be experimental",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768835731,
+      "content": "She wants to be ahead of the game",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768831022,
+      "content": "Pretty easy compared yo others",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768824537,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768820591,
+      "content": "But isnt ur sistern in freshman classes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768814571,
+      "content": "U should b getting rhat too lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768811180,
+      "content": "Or maybe 2400 if its on a different scale",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768805964,
+      "content": "Godamn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768801709,
+      "content": "1600",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768796604,
+      "content": "1600, not like1590?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768791896,
+      "content": "Idk how she got waitlisted",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768786110,
+      "content": "...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768781544,
+      "content": "She still got 1600 on ssat tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768778361,
+      "content": "XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768770121,
+      "content": "And then she got waitlisted to both which is a blessing for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768769163,
+      "content": "Poor us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768765327,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768761337,
+      "content": "And my parents r like, why cant u do that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768753880,
+      "content": "She applied to all these prep schools and i new she was going to get in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768748421,
+      "content": "She has straightA+ in every claas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768738207,
+      "content": "My sister too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768734669,
+      "content": "I need ta do that too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768732397,
+      "content": "She's making me look so bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768720299,
+      "content": "Ima try to go to bed early",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768712689,
+      "content": "My sister has inspired me to try to be more productive lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768619360,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768604084,
+      "content": "I gotta hope so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768588733,
+      "content": "And its scaled so u should b fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768581947,
+      "content": "Well if it waa hard for u then it was hard for everyome elae",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768575160,
+      "content": "Yea previous test s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768564824,
+      "content": "But u go pete ans asst end",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768562825,
+      "content": "Uh huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768555238,
+      "content": "Just from previous trsts?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768554762,
+      "content": "Administered like the real thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768541878,
+      "content": "Our was practice tests",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768523174,
+      "content": "Whated u use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768518411,
+      "content": "Whats thT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768518201,
+      "content": "2 times",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768510420,
+      "content": "O kahn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768506325,
+      "content": "I went to Sat prep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768498401,
+      "content": "I didnt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768494684,
+      "content": "Uhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768485520,
+      "content": "What pratice book did u use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768425409,
+      "content": "But the test was bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768415406,
+      "content": "I thought maybe before bc practice was mad ez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768381631,
+      "content": "Breh if u thought u had a chance at 1600 ever than u prolly got more than 1500",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768360335,
+      "content": "Gave up on 1600 when i saw the test",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768341801,
+      "content": "Lol same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768330833,
+      "content": "All i ever asked god for",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768326145,
+      "content": "1500",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768299668,
+      "content": "What r u hoping 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768221167,
+      "content": "Terrifying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768203140,
+      "content": "Scary",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768197861,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768194734,
+      "content": "Oh ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768187395,
+      "content": "Sat scoress tomorrrrowww",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768180610,
+      "content": "Hope so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768168458,
+      "content": "Varsity boi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768155383,
+      "content": "Gl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768153292,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768133288,
+      "content": "Nah i wqs kidding i hope it goes well tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768124514,
+      "content": "Google news initiative",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768121368,
+      "content": "Ok lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768113044,
+      "content": "U need to laugh when i give u the signal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768111600,
+      "content": "On what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768105147,
+      "content": "Ok i have a fire presentation for tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768104596,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768102692,
+      "content": "Ikr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768096149,
+      "content": "Dopppppeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768091703,
+      "content": "In class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768089196,
+      "content": "We r supposed to work on it tmeo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521768081662,
+      "content": "I thinj tmro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768078283,
+      "content": "Or end of tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768073929,
+      "content": "Or in class tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521768068963,
+      "content": "Yo summative is due midnight today?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656779861,
+      "content": "Mpas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656778023,
+      "content": "Masp",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656775825,
+      "content": "Mas0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656774140,
+      "content": "Psam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656771385,
+      "content": "Pasm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656769340,
+      "content": "Smap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656767675,
+      "content": "Spam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656765703,
+      "content": "Plz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656763486,
+      "content": "Now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656761892,
+      "content": "Chekc it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656740224,
+      "content": "What time r tryiut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656655329,
+      "content": "Not loading",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521656638400,
+      "gifs": [
+        {
+          "uri": "messages/inbox/PhoenixTamaoki_Bq1rr3qxmQ/gifs/21126145_480727005617249_7860189729667416064_n_217459478837892.gif"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521656634361,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656619422,
+      "content": "I. Borderd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521656614894,
+      "content": "Willyyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521580395581,
+      "content": "All i asked for",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521580340471,
+      "content": "Dont worry i believe ur good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521580332428,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521579550947,
+      "content": "Well that makea feel good about myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521579310790,
+      "content": "They r ez to hit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521579302666,
+      "content": "Foam balls r supposed to b easy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521579139460,
+      "content": "Didnt get to show off my serve tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521579130409,
+      "content": "But im kinda nice with them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521579124043,
+      "content": "And its true that its not as fun as normal ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521579115691,
+      "content": "Everyone says foam balls suck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521579089960,
+      "content": "Lol why is that surprising",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521579056242,
+      "content": "Ye but suprisingly im better with foam balls than with tennis balls lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521579038236,
+      "content": "And new ones are at the bottom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521579031381,
+      "content": "R they in the gym?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521579031122,
+      "content": "I think he said everyone starts where they finished last year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521579014264,
+      "content": "After tryouts tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521579004950,
+      "content": "So is thrre a ladder yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521578995760,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521578991209,
+      "content": "Ayyyy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521578990466,
+      "content": "Gotta take whatever he says with a grain of salt but it makes me happy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521578979205,
+      "content": "And juan said id b 2nd doubles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521578973876,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521578969528,
+      "content": "And yhe indian kid wqsnt there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521578959681,
+      "content": "Huh?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521578957695,
+      "content": "And hes not nearly as good at tennis as i thought he wqs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521578948081,
+      "content": "Sashas not nearly as bad a kid as i thought he wqs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521578937646,
+      "content": "Yoooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521502728645,
+      "content": "Ok kewl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521502387094,
+      "content": "Nep but thar summative assignmen due friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521501838208,
+      "content": "so do we have hw due tmro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521169081479,
+      "content": "Cya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521169039840,
+      "content": "Oite ill tty tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521169028640,
+      "content": "Ye ive noticed lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521169016225,
+      "content": "Idk how good anyone is really, id have to play them myself to really make a judgement",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168998358,
+      "content": "Hope that punk hasnt improved",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521168992786,
+      "content": "Tru",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168990607,
+      "content": "Im more concerned about finn tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521168985461,
+      "content": "Yes we shall",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168981856,
+      "content": "Ill play quite a few v games anways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168973559,
+      "content": "We'll see then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521168970449,
+      "content": "It means idk if hes good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168968110,
+      "content": "O ok lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168960135,
+      "content": "Or a filler player?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521168959601,
+      "content": "He might be good or bad lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168954982,
+      "content": "Does that mean hes inconsistant?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168943591,
+      "content": "Wild card?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521168922590,
+      "content": "Idk how good he is now tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168912675,
+      "content": "U seen him play? I feel like i could be better cuz i have an inherent size advantage but u kno how that goez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521168912346,
+      "content": "Hes a wild card",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521168882219,
+      "content": "I mean idk how good he is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161676897,
+      "content": "only 1 spot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161653476,
+      "content": "but what about kailash",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521161631830,
+      "content": "So even if frshie comes up therell still b an emtpy space",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521161611749,
+      "content": "Nd i mean there are 2 open spots cux senors left",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521161591013,
+      "content": "Perfect",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161574966,
+      "content": "and he doesnt really text]",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161567943,
+      "content": "never seen him online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161561523,
+      "content": "I swear hes off the grid",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161550873,
+      "content": "well, theres hope for u if this sascha kid still hasnt signed up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521161472390,
+      "content": "Eyy all depends on the freshman and kailash now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161244161,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161242265,
+      "content": "dont let me down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161236551,
+      "content": "and ive never actualy seen u play, so I guess I have more faith in u now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161222528,
+      "content": "oscar believes u can make varsity,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521161207638,
+      "content": "yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521160382269,
+      "content": "I guess nicholson doesnt care if u come heh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521160303977,
+      "content": "oh, well why would I come if they r in the gym lol, I can just get a court at winchester of something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521160279997,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521160278883,
+      "content": "We're going to winchester for the firt few practices too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521160265910,
+      "content": "were they in the gym?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521160255454,
+      "content": "Lol u didnt come last year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521160211634,
+      "content": "well im not going to tryouts if they r in the gym",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521160191323,
+      "content": "Tryouts are aboutta b in the gym again and i think tuesday is a halfday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521160165438,
+      "content": "No hw u picked the perfect day to skip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521160155027,
+      "content": "We had a debate theb watched stuff then did the walkout",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1521160138699,
+      "content": "Wat",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521160124593,
+      "content": "willlll;",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521160121243,
+      "content": "and is there any hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1521160116963,
+      "content": "what did we do today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520971143645,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520970904343,
+      "content": "Nah thats for thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520970211342,
+      "content": "About settler colonialism and \"redskin\" term",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520970181320,
+      "content": "Do we have to finish that apcket thing for tmro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954952045,
+      "content": "nah fam my battery is nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954921080,
+      "content": "Lol. Ur phone will die",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954867569,
+      "content": "thatd be a great game to play on bus rides to away games",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954860234,
+      "content": "ye we'll see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954850008,
+      "content": "Yea i think thays a curate tho it does take a while",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954834379,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954831125,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954829576,
+      "content": "I feel like mobile games cant take too long",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954825738,
+      "content": "Im nor quite sure hoe to pick up a gun so i die",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954817630,
+      "content": "like if you sit down to play you have to have a lot of time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954809213,
+      "content": "Idk lol. Never won",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954799534,
+      "content": "Its comming soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954799357,
+      "content": "but isnt it like a game that takes a lot of time to win?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954779868,
+      "content": "But if u go to their website, theres a sign up for mobioe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954771097,
+      "content": "nvm then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954762827,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954757789,
+      "content": "o shoot u got a console",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954757591,
+      "content": "It comes out on mobile soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954746406,
+      "photos": [
+        {
+          "uri": "messages/inbox/PhoenixTamaoki_Bq1rr3qxmQ/photos/29136456_393650547764021_1108248587688476672_n_393650524430690.jpg",
+          "creation_timestamp": 1520954745
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954737218,
+      "content": "I'll try it out how i get it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954730266,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954723672,
+      "content": "lol on phone?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954718224,
+      "content": "Its updating lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954709954,
+      "content": "Tryna rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954652021,
+      "content": "U?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954650553,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954641731,
+      "content": "U dont play foetnite right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954621182,
+      "content": "Yea i love it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954613802,
+      "content": "Informal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954613406,
+      "content": "Way*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954607602,
+      "content": "Mr mac is great cuz hes fine with all this ibfirmal stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954606379,
+      "content": "I just did eay more than needed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954598664,
+      "content": "XD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954595497,
+      "content": "I thunk u should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954592996,
+      "content": "Da phenom lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954586930,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954582475,
+      "content": "Breh i hope i can still get credit for what i did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954579807,
+      "content": "Well thats kinda why i wanted to share",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954568311,
+      "content": "Oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954564525,
+      "content": "Of actialy work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954562881,
+      "content": "U had like a paragraph fir each answer i only had a paragraph for the whole thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954559320,
+      "content": "15 mins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520954555346,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520954540812,
+      "content": "Bruhhh u put so much work into the reflection on my grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911393753,
+      "content": "Yup yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911379623,
+      "content": "if u mix and match",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911369374,
+      "content": "or I Am Will Cooper",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911365722,
+      "content": "Haha i get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911349157,
+      "content": "Im on my phone anyways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911348080,
+      "content": "Will I Am COOOOOOOOper",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911337536,
+      "content": "Eh i dun wanna hear it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911334628,
+      "content": "not really a pun, but...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911327635,
+      "content": "of ur name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911323618,
+      "content": "I made a nice pun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911320101,
+      "content": "go to my grading doc real quick",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911315940,
+      "content": "Would be nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911311593,
+      "content": "Uh huh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911295890,
+      "content": "I thought it was sooner lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911285814,
+      "content": "I think thats prettt fast i expected like a month",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911278774,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911272883,
+      "content": "23-29",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911268502,
+      "content": "2 weeks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911264577,
+      "content": "19th?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911258522,
+      "content": "when we get results?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911202920,
+      "content": "I thought i did ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911199471,
+      "content": "I had to go as well but maybe not as bad",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911180431,
+      "content": "do u know how had it is to hold pee for an hour while trying to write an essay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911161090,
+      "content": "Loool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911154616,
+      "content": "the thing is I had to pee the whole time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911147640,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911134865,
+      "content": "O u thijk u did well on the essay tho?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911132143,
+      "content": "nvm then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911129406,
+      "content": "oh..",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911124516,
+      "content": "O i dont remember that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911123704,
+      "content": "u laughed lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911119934,
+      "content": "it was already pulled up in my chrome browser",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911109975,
+      "content": "I looked at 1 essay before taking the SAT",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911106326,
+      "content": "No?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911098387,
+      "content": "remember at lunch",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911094321,
+      "content": "O o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911086927,
+      "content": "they sound all proffesional\\",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911080500,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911080335,
+      "content": "How u know?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911074528,
+      "content": "Grade sat essays?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911068623,
+      "content": "just wanted to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911065657,
+      "content": "I dont think we have to share w eachother",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911056169,
+      "content": "Im sure its fine as long as i gave it to him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520911047276,
+      "content": "O i forgot to share mine w u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911046626,
+      "content": "I really milked this stuff, I basicly sound likethe ppl who grade SAT essays",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911028826,
+      "content": "I shared my grading w u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520911023962,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520910102586,
+      "content": "10 points for each question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520910096772,
+      "content": "I just picked",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909982917,
+      "content": "for the quiz to be out of",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909976206,
+      "content": "um so did u just pcik 30 pts or is it on the rubric",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909962992,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520909933285,
+      "content": "Also i should think of one amyways cuz if im not v then ill b pretty high on jv so ill b filling in a bit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520909903848,
+      "content": "Eh i got time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909887189,
+      "content": "if u plan on playing varsity",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909881571,
+      "content": "for ur tennis thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909878333,
+      "content": "also u should think of a name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520909861675,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909828105,
+      "content": "lol, its not that formal, just need to justify the grade",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520909813487,
+      "content": "Lol nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520909811151,
+      "content": "I mean i didnt really have any grading rubric but im aure its fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909808515,
+      "content": "havent graded, but it looks like full cred to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909800579,
+      "content": "u did too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909797864,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520909791115,
+      "content": "Congratz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909789951,
+      "content": "i gave pretty good ans i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909783407,
+      "content": "yesss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909778690,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520909778440,
+      "content": "Just a heads up i gave u a 30/30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520909770135,
+      "content": "Yah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909761704,
+      "content": "so we have to grade by tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520909753506,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520907208639,
+      "content": "Idk but you said where when u meant wereor something",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520907054619,
+      "content": "or is it extended",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520907048816,
+      "content": "also do u know if we have to get it done by tongiht",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520906329994,
+      "content": "could u tell me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520906325782,
+      "content": "uhhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520905724762,
+      "content": "Also an incorrect word somewhere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520905709060,
+      "content": "U had weird phrasing and incorrect punctuation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520905435071,
+      "content": "wait what was wrong with my questions",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520808935476,
+      "content": "O oite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520808893561,
+      "content": "Go to the google form and its the responses tab",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520806948455,
+      "content": "Wait where do i find it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520806540001,
+      "content": "Im dkne",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520806494980,
+      "content": "U could do the quiz now anyways if u have time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520806483364,
+      "content": "Ye it says on classroom",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520805421730,
+      "content": "yo r u sure its due monday night, just wanna be sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799190180,
+      "content": "Oo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799181568,
+      "content": "I dont think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799176199,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799170407,
+      "content": "Idts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799168164,
+      "content": "No",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799164947,
+      "content": "James have a sc?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799149719,
+      "content": "O yea lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799141183,
+      "content": "On sc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799138723,
+      "content": "Ask on the tennis 2018 gc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799128968,
+      "content": "James",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799117236,
+      "content": "I asked fritz and he hasnt said anything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799109290,
+      "content": "U know anyone else?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799100742,
+      "content": "Not trying to go to murr center to just serve some balls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799091042,
+      "content": "Waste of an indoor court but still better than nothing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799069137,
+      "content": "Then jist serve some balls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799062816,
+      "content": "If u canr cancel",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799058569,
+      "content": "Y can call",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799055319,
+      "content": "Ye i told him",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799052520,
+      "content": "I mean...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799038347,
+      "content": "Ill ask around but idk what to do if no one can come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520799037533,
+      "content": "Wrll thats one thing u shoupdnt do lol, cancel 24 hours before the hit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799025626,
+      "content": "I guess u wont b able to make it for the first half at least then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520799011907,
+      "content": "Ye he shouldve checked earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520798996332,
+      "content": "He jist told u now he couldnt make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520798983672,
+      "content": "...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520798821330,
+      "content": "Idk if we can or if theres a fine, his mom called me to ask if someone was coming and i said finn was",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520798811462,
+      "content": "Lpl",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520798797572,
+      "content": "And dont think the court would appreciate it if we canceled so late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520798785768,
+      "content": "Tell him to cancel?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520798782873,
+      "content": "I told him id take it but now i have no one to play with",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520798771154,
+      "content": "Evan made a reservation at 5:30 and cant make it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520798758258,
+      "content": "At 430",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520798758072,
+      "content": "Dang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520798753647,
+      "content": "Winchester",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520798749293,
+      "content": "Far away?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520798746043,
+      "content": "What the problem agaijn?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520798724928,
+      "content": "Im abt to play tennis lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520798701981,
+      "content": "Yo please come at 5:30? Finn just bailed on me and idk what to do about the reservation",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520786204845,
+      "content": "Finished ur quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520739246316,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520739239679,
+      "content": "Lmk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520739225642,
+      "content": "Oo i see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520739175609,
+      "content": "I might not be able to make it if I'm playing w oscar",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520739143659,
+      "content": "Wait i dont get it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520739130279,
+      "content": "Me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520739119471,
+      "content": "Me? Or u?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520739100523,
+      "content": "Might play w oscar then lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520739084148,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520739074934,
+      "content": "Idk yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520739074587,
+      "content": "Evan got court reservations but ended up jot being able to do",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520739055959,
+      "content": "U doing something tomorrow at 5:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520723037827,
+      "content": "We got till monday midnight were fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520722883880,
+      "content": "Then u bwtter answer mine before grading my ans lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520722707321,
+      "content": "And i have to get up early to d9 something tomorow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520722694013,
+      "content": "By the time i get home today ill b in no condition to do hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520722559431,
+      "content": "It takes like 15 mins...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520722449635,
+      "content": "U shoulda fi ished ur quiz earlier",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520722441127,
+      "content": "Ikik i have something today snd then tomororw morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520721809400,
+      "content": "I still have to grade u and write about why i graded u the way i did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520721793781,
+      "content": "Do it early plz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520721787568,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520721644508,
+      "content": "Ill do it tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520720302149,
+      "content": "Ill fill out urs now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520720296350,
+      "content": "Ok i sent u mine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520714152663,
+      "content": "Oh yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520714139515,
+      "content": "Lemme know when ur done with that quiz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218979113,
+      "content": "Ye np",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218899824,
+      "content": "ok cool, thx",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218610964,
+      "content": "But it seems like a solid schedule",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218602219,
+      "content": "It says hn opt on ur transcript",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218586088,
+      "content": "its the same thing as HN then right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218574997,
+      "content": "Oho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218560392,
+      "content": "its HN opt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218560299,
+      "content": "Idk it couls b good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218553456,
+      "content": "Takin cp classes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218545572,
+      "content": "Thats not how student athletes grind",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218540788,
+      "content": "have u heard bad things\n?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218531408,
+      "content": "Lol \"fun\"",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218519549,
+      "content": "someone told me it was fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218519450,
+      "content": "U tryna go to collegw or nah?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218510090,
+      "content": "Dang wut",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218498918,
+      "content": "idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218477006,
+      "content": "Why creatibe writing\n?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218453863,
+      "content": "I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218442628,
+      "content": "its not HN either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218437086,
+      "content": "Heard",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218434215,
+      "content": "not rwally",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218430870,
+      "content": "Cuz if u just wanna do a science ive heafd good things about org chem",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218430088,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218413948,
+      "content": "R u rlly interested in marine bio?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218393837,
+      "content": "the prob is they dont have hn marine bio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218379258,
+      "content": "ok thats better i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218374363,
+      "photos": [
+        {
+          "uri": "messages/inbox/PhoenixTamaoki_Bq1rr3qxmQ/photos/28696000_389992338129842_1698173022_o_389992338129842.png",
+          "creation_timestamp": 1520218373
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218339894,
+      "content": "oh got it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218308171,
+      "content": "Them u have to scroll down its hidden",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218294717,
+      "content": "Its in the second one on the dropdown menu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218270651,
+      "content": "bruh i cant find bio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218264803,
+      "content": "ik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218224358,
+      "content": "Thats gonna b tough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218220011,
+      "content": "Cs 51? Without 50?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218209281,
+      "content": "Enviro is 1 semes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218203533,
+      "content": "Its 10 credits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218198383,
+      "content": "cs 51 and multi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218193574,
+      "content": "yea both",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218186155,
+      "content": "is enviro not full yea?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218179733,
+      "content": "Both?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218173037,
+      "content": "the math ones",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218166322,
+      "content": "Also which courses r ur place holders?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218146125,
+      "content": "Breh u have space for ap bio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218136860,
+      "content": "??? 3 sciencss?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218103998,
+      "content": "But bio is full year so if u dont have space i guess u cant",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218093429,
+      "photos": [
+        {
+          "uri": "messages/inbox/PhoenixTamaoki_Bq1rr3qxmQ/photos/28821842_389991498129926_1614629257_o_389991498129926.png",
+          "creation_timestamp": 1520218092
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218092866,
+      "content": "Ye i mean ive heard not so good things about enviro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218061716,
+      "content": "do u think i should switch it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218053293,
+      "content": "its actialy ap enviro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218047007,
+      "content": "oh wait rn im not in ap bio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218030649,
+      "content": "Any electives?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218025468,
+      "content": "What else?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218025055,
+      "content": "ppl said it was good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218020575,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520218011562,
+      "content": "Oy thats a good one but its not ap i guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520218003299,
+      "content": "chem done",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520217998235,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520217993397,
+      "content": "i did hn economics for hist",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520217987762,
+      "content": "Did u do chem?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520217983633,
+      "content": "Noice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520217979553,
+      "content": "i am",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520217972680,
+      "content": "Take ap bio w me n albert",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520217958484,
+      "content": "yea i really need to get my schedule figured out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520217953461,
+      "content": "I signed up for ap bio and ap comp gov for history",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520217940688,
+      "content": "Oo right the portal closes today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520217926583,
+      "content": "idk what to take",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520217923547,
+      "content": "what about science stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1520217731127,
+      "content": "Lang",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1520217681768,
+      "content": "what english r u taking next year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518663432483,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518663424366,
+      "content": "Just follw me after school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518663401121,
+      "content": "Where",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518663385273,
+      "content": "Ye just rigjt after school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518663373231,
+      "content": "Then j gtg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518663368770,
+      "content": "I can until 3:30 about",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518663358456,
+      "content": "What time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518663344883,
+      "content": "Can u come tomorrow after school?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518663332381,
+      "content": "Also jonas wants me to bring people to his aerospace club tomorrow because theres an event with some harvard people",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518647818501,
+      "content": "Then there was no hw but we have that packet to read and answe qurstipns about from monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518647795676,
+      "content": "Read*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518647792826,
+      "content": "We had a circle jerk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518644312445,
+      "content": "what did we do in hist today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518644307287,
+      "content": "yo'",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "William Cooper"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518542108804,
+      "content": "For Thursday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518541226988,
+      "content": "Was there hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518375284327,
+      "content": "Nae",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518374713987,
+      "content": "um was there hw over the weekend",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518054057391,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518054050377,
+      "content": "Lmao chopsticks dont have holes in them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518054037934,
+      "content": "No lol u suck with a straw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518054023560,
+      "content": "me and my sister both suck with them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518054016523,
+      "content": "u woul;d be suprised",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518053981613,
+      "content": "Chopsticks*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518053974891,
+      "content": "I have length but u r nice at cousins",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518053954635,
+      "content": "i would lose",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518053948738,
+      "content": "...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518053941822,
+      "content": "I meant we should have a fight to the death with only chopsticks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518053935964,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518053919170,
+      "content": "Lol i was kidding",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518053891969,
+      "content": "im not a huge fan of checkers lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518053883441,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518053875558,
+      "content": "Ion think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518053830974,
+      "content": "but, i asked about hw lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518053815799,
+      "content": "Let's play checkers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518053804587,
+      "content": "what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1518053793759,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1518052335037,
+      "content": "do we have hw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517879123945,
+      "content": "Loo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517879089573,
+      "content": "Hope not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517878212532,
+      "content": "do we have hw tingiht?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517699432318,
+      "content": "I really dont know i didbt here anythi f about googling but i wasnt listening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517699410975,
+      "content": "i thought we were supposed to google it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517699402776,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517699399326,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517699398559,
+      "content": "based on race",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517699395727,
+      "content": "Thats what i thought",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517699394866,
+      "content": "oh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517699390086,
+      "content": "If the guy is deemed white or not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517699225501,
+      "content": "we r just supposed to say if the judge guy is white?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517699213493,
+      "content": "hey",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690770347,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690600899,
+      "content": "Whatever mang im sure maclaury will appreciate the interpretatoon that stemmed from confusion",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690553154,
+      "content": "but not defined as white either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690550497,
+      "content": "But firguratively in the definition of white in the first paragrapu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690544488,
+      "content": "ik",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690533253,
+      "content": "They became whjte not literally",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690514967,
+      "content": "not that they became white",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690501374,
+      "content": "so i think its saying the cases were not decided by race, but decided by court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690497060,
+      "content": "Yes but they were already brought to court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690487366,
+      "content": "Litigated*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690476989,
+      "content": "which apparently means brought to court",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690469741,
+      "content": "it uses the word ligated tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690365677,
+      "content": "So all the court cases after 1870 said that the immigrants were white so they could b citizens",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690345698,
+      "content": "I thought it was just that as long as blacks could be citizebs it meant thay anyone could",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690308356,
+      "content": "so the casees were then decided by court, not race",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690281213,
+      "content": "so my ans is that, because before the 15th, blacks were not allowed to become citizens, but after, they were",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690226324,
+      "content": "oh yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690193195,
+      "content": "Noo i mean immigrants were granted naturalization or whatever becayse blacks were citize s",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690156373,
+      "content": "just allowed blacks to become citizens right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690146142,
+      "content": "they werent classified as white...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690139215,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690107857,
+      "content": "So everyine was classified as white",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690100896,
+      "content": "Ye but black people wete allowed tk be citizens after 1870 so they had to make it so that anyone could b citizens",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690064047,
+      "content": "yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690062764,
+      "content": "and its ans is that the law was that u have to be white to become a citixzen",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690051963,
+      "content": "The second question?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690038706,
+      "content": "i think it means that the cases were decided by their whiteness",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690029149,
+      "content": "O",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517690023903,
+      "content": "no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517690019199,
+      "content": "Dis u do the last part?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517689997293,
+      "content": "Yeah it says turned on idk what that means",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517689993951,
+      "content": "and im not quite sure who the subject of the question is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517689985472,
+      "content": "I think it means why were all the people classified as white after the 15th amendment was passed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517689983364,
+      "content": "wording is strange",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517689973011,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517689962811,
+      "content": "Yo me neither i thought i was smacked trying to read it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517689943606,
+      "content": "i dont really get the second question",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517689936345,
+      "content": "yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517683058034,
+      "content": "Oite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517683006392,
+      "content": "But I think so",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517683003394,
+      "content": "I don't remember what he said really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517682996529,
+      "content": "Hmmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517682577081,
+      "content": "For the hw on the back page we only have to do the first column right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517518119727,
+      "content": "Tyty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517517812570,
+      "photos": [
+        {
+          "uri": "messages/inbox/PhoenixTamaoki_Bq1rr3qxmQ/photos/27707214_376774932784916_355410491_o_376774932784916.jpg",
+          "creation_timestamp": 1517517812
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517517792268,
+      "content": "Education oppressive or liberating",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517517519072,
+      "content": "I forgot my paper in class",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517517513340,
+      "content": "Yo whats the paper thing due tomorrow on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517181848267,
+      "content": "lol nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517180926416,
+      "content": "And mine is a few words rn ill get back to u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517180911003,
+      "content": "Yes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517180343368,
+      "content": "also when u say states rights, should it be states' rights?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517180260655,
+      "content": "just wondering if urs is also kinda short",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517180249004,
+      "content": "bc mine is liek 2 pgs",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517180241077,
+      "content": "lol well how long is it at the moment",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517179754043,
+      "content": "I have yet to find out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517176442817,
+      "content": "how long is your essay thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517117214294,
+      "content": "Computer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517115656451,
+      "content": "Comp?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517113837401,
+      "content": "think my comp is slow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517113833461,
+      "content": "yea idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517113761224,
+      "content": "Waaaaaattttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517113728350,
+      "content": "the first one sent twice, and it didnt show up tho so i sent another",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517113714718,
+      "content": "no only twice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517113710110,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517112639455,
+      "content": "And nup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1517112634034,
+      "content": "Did u write that 3 times",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517111700733,
+      "content": "do u know any1 in bio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517111686319,
+      "content": "do u know anyone in bio",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoenix Tamaoki",
+      "timestamp_ms": 1517111681898,
+      "content": "do u know anyone in bio",
+      "type": "Generic"
+    }
+  ],
+  "title": "Phoenix Tamaoki",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/PhoenixTamaoki_Bq1rr3qxmQ"
+}

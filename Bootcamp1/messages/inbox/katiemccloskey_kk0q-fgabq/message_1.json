@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Katie McCloskey"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511180723728,
+      "content": "I didnt even know we had hw i thougt it was judt the project",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511180699015,
+      "content": "I wqs pretty busy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511180690468,
+      "content": "Damn sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511180657068,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie McCloskey",
+      "timestamp_ms": 1511118132764,
+      "content": "Can\u00e2\u0080\u0099t figure it out and it\u00e2\u0080\u0099s driving me insane",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie McCloskey",
+      "timestamp_ms": 1511118095705,
+      "content": "Airport problem?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Katie McCloskey",
+      "timestamp_ms": 1511118090846,
+      "content": "Did you do the stats?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Katie McCloskey",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KatieMcCloskey_Kk0Q-FGAbQ"
+}

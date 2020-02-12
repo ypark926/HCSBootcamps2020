@@ -1,0 +1,226 @@
+{
+  "participants": [
+    {
+      "name": "David Lee"
+    },
+    {
+      "name": "Cole Killian"
+    },
+    {
+      "name": "Sakib Asraf"
+    },
+    {
+      "name": "Hersh Kanner"
+    },
+    {
+      "name": "William Cooper"
+    },
+    {
+      "name": "Jonas Hansen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555105191799,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555105187776,
+      "content": "I'll send them after I get them and edit them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555105173464,
+      "content": "Willa took some",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555105168357,
+      "content": "Can u send them to us?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555105162353,
+      "content": "Lol who took photos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555104837140,
+      "content": "Wait NVM we're good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555104031308,
+      "content": "So I'm gonna have to do some head hunting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555104021714,
+      "content": "I'd need at least 2-3 different photos, preferably from different acts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555103988295,
+      "content": "Just like a guitar and maybe a mic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555103977903,
+      "content": "So that way you guys wouldn't have to bring all your gear out again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555103960157,
+      "content": "Headshots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555103956986,
+      "content": "Aight I was thinking we could do some headsgots",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1555103430038,
+      "content": "sadly",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1555103428881,
+      "content": "i didn't do much capturing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1555103380029,
+      "content": "his dad took some videos too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1555103369976,
+      "photos": [
+        {
+          "uri": "messages/inbox/DavidColeSakiband2others_Qz0951tofA/photos/57511515_400897210692795_2112391553283522560_n_400897207359462.jpg",
+          "creation_timestamp": 1555103365
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1555103348290,
+      "photos": [
+        {
+          "uri": "messages/inbox/DavidColeSakiband2others_Qz0951tofA/photos/56931752_440340166701364_9059803159483908096_n_440340163368031.jpg",
+          "creation_timestamp": 1555103344
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1555103331210,
+      "content": "these are the pictures jonas took",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555103210655,
+      "content": "Yeah we could do it sometime after break",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cole Killian",
+      "timestamp_ms": 1555103188176,
+      "content": "lol staging pics sound fun",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555102951392,
+      "content": "Aight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "David Lee",
+      "timestamp_ms": 1555102933537,
+      "content": "I'm ok to do whatever, I dont have many photos myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555097580290,
+      "content": "Stage a few pics for us",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555097575932,
+      "content": "Have you guys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555097573581,
+      "content": "Or can I like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555097554499,
+      "content": "Or do u guys have ur own pics",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555097549009,
+      "content": "So do you guys know anyone who took pictures for it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555097539103,
+      "content": "For the register forum",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555097534904,
+      "content": "The person who was supposed to take photos during the talent show wasn't able to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555097520474,
+      "content": "Yo guys I'm in a pickle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555097515308,
+      "content": "Sakib created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "David, Cole, Sakib and 2 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/DavidColeSakiband2others_Qz0951tofA"
+}

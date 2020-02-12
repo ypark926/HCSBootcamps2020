@@ -1,0 +1,1497 @@
+{
+  "participants": [
+    {
+      "name": "Josephine Weissburg"
+    },
+    {
+      "name": "Mai Nguyen"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559683286599,
+      "content": "I\u00e2\u0080\u0099ll be there soon - to the school - I mean I\u00e2\u0080\u0099m at home rn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559683263005,
+      "content": "Can u open the door",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559683255589,
+      "content": "I'm back",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Josephine Weissburg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559679438750,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559679435886,
+      "content": "Im out here with 2 others",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559679431823,
+      "content": "Can someone let me in",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559679426818,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559679416327,
+      "content": "But afterwards make sure u go home and get the taped version",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559679398095,
+      "content": "Josie has it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559679393799,
+      "content": "So should i go home really quick?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559679379113,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559679376464,
+      "content": "How...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559679367533,
+      "content": "Can we do sound check without it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559679358370,
+      "content": "But i forgot my sheet music",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559679352262,
+      "content": "Yea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559678965856,
+      "content": "Hey will are u here yet?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559677451665,
+      "content": "Ok cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559677199288,
+      "content": "I'll be there soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559677187133,
+      "content": "I'm at mit rn I'll be home in 15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559677066680,
+      "content": "We rlly need to play soon so that ppl have down time before the concert",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559677001924,
+      "content": "Can u get here any earlier?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559676971747,
+      "content": "I'll be there before 4:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559676944112,
+      "content": "Shoot no",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559676569541,
+      "content": "Did I tell u beforehand?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559676561453,
+      "content": "Will make sure ur in the black box by 4 for soundcheck!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559655376242,
+      "content": "Which door...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559655373053,
+      "content": "I\u00e2\u0080\u0099m here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559655094237,
+      "content": "I\u00e2\u0080\u0099m almost there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559587917799,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559583245069,
+      "content": "At wills still ?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mai Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559583240595,
+      "content": "Sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559583212220,
+      "content": "down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559583211298,
+      "content": "donw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559583210277,
+      "content": "im donw",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559583208339,
+      "content": "yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559582947694,
+      "content": "Like 9:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559582945072,
+      "content": "Can we do before?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559582823095,
+      "content": "which is at 10:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559582819434,
+      "content": "after grad rehearsal again I guess",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559582809436,
+      "content": "works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559582769606,
+      "content": "Yeah I think so what about tomorrow morning?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559582756017,
+      "content": "would it be too late to rehearse tomorrow like right before the concert?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559582745129,
+      "content": "uhh idk if I can do 4:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559582167033,
+      "content": "Soweeeeeeee :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559581871054,
+      "content": "Does that work",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mai Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559581869403,
+      "content": "I could do like 4:30- 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559581840385,
+      "content": "Oh noooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559581810846,
+      "content": "Maybe we should reschedule? are u free later today josie?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559581799282,
+      "content": "Hey I'm rlly sorry but I'm super lost biking in Boston rn and I almost def won't be able to make it at least until 2:15 :((",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559578547487,
+      "content": "I\u00e2\u0080\u0099ll be there at 1:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559578543664,
+      "content": "Kimmai said she can\u00e2\u0080\u0099t come till 1:30-45 ish -",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559575224064,
+      "content": "I'm grabbing food rn but I'll be home in 30 min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559575210993,
+      "content": "You guys can come earlier if u want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559575137754,
+      "content": "Should we meet at 1 still",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559534966840,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559533027334,
+      "content": "No let\u00e2\u0080\u0099s do wills since it\u00e2\u0080\u0099s closer to school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559528326029,
+      "content": "Josie's house",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559528063893,
+      "content": "Where?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559527159507,
+      "content": "Yeah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559527012589,
+      "content": "Tomorrow at 1:30?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559526641923,
+      "content": "I'll plan on that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559526637907,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559526635313,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559526627990,
+      "content": "Around 1:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559526501864,
+      "content": "Maybe after?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559526499231,
+      "content": "Hmmmm when's Grad reh over? I'm missing it bc I hav another event going on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559505241559,
+      "content": "my house?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559483450065,
+      "content": "Rehearse tomorrow?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Josephine Weissburg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559483440388,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559481579555,
+      "content": "Tuesday the 4th 6 pm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559451254301,
+      "content": "When's the concert again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559152215301,
+      "content": "If I do say so myself",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559152207247,
+      "content": "#prepared",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559152201251,
+      "content": "I have score for maya tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559152195775,
+      "content": "I\u00e2\u0080\u0099ll bring it to her tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559152027723,
+      "content": "Next time!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559151951534,
+      "content": "Oops will this doesn\u00e2\u0080\u0099t pertain to u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559151940158,
+      "content": "Crap I didn\u00e2\u0080\u0099t bring the music for the Gaelic offing piece",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559143772191,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559141173310,
+      "content": "I'll do it myseld",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559141171580,
+      "content": "I dont need a page turner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559073489210,
+      "content": "Dang ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559073280888,
+      "content": "get there asap! I need to leave at 6:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559073220306,
+      "content": "I\u00e2\u0080\u0099ll print it !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559073204697,
+      "content": "I dont have sheet music tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559073200755,
+      "content": "Wait nvm im close to josies house",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559073187167,
+      "content": "I mighr be able to get out eaely but i dont have a bike",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559073176341,
+      "content": "I have an astrophysics thing till 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559073155979,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559073155794,
+      "content": "That works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559073145617,
+      "content": "Oooh my house ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1559073132398,
+      "content": "So Josie's house at 6?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558917502766,
+      "content": "That\u00e2\u0080\u0099s okay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558917498450,
+      "content": ":0000",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558917490557,
+      "content": "Can we not do Monday I want to be with my family",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558917468971,
+      "content": "Maybe Monday morning at 12 ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558917450859,
+      "content": "51 frost street",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558916080551,
+      "content": "We have a lot of food",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558916073300,
+      "content": "Will bring as many ppl as possible to the concert tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558916046986,
+      "content": "Also can u rehearse tuesday at like 6 or 7?",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Josephine Weissburg"
+        },
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Mai Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558916034958,
+      "content": "For tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558916031934,
+      "content": "Josie where is ur house",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558702219993,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558694519322,
+      "content": "I can't do today but I can do next mon/tues",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558692192482,
+      "content": "Masterclass is in band room",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558692182445,
+      "content": "CMC concert 6/4 6 pm in black box",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558692168200,
+      "content": "Josie house concert: (make a FB event!! And text/email a bunch of ppl josie!!!) 5/26 at Josie's house 6 pm (?)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1558692118460,
+      "content": "CMC masterclass 5/29 2:30-4:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558669495861,
+      "content": "Wait on monday or wednesdya?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558669490075,
+      "content": "What time is that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558669213863,
+      "content": "Also will ur invited to the flute chamber music thing at my house that day! I need to seek out other classical music appreciators to invite \u00f0\u009f\u0091\u0080\u00f0\u009f\u0091\u0080 from school - if you have any thoughts",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558669165977,
+      "content": "Ok!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558669123027,
+      "content": "Monday moening works for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558669115840,
+      "content": "Itd have to be pretty late",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558669107743,
+      "content": "Idt i can do tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558668886179,
+      "content": "I guess otherwise it would have to be Monday or Tuesday for me eek",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558668873178,
+      "content": "Do we want to rehearse tomorrow ??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558668861844,
+      "content": "Well mais probably asleep",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558668852082,
+      "content": "Ah i see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558668838296,
+      "content": "Yeah thats what i was talking abt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558668815407,
+      "content": "That shoot made it sound like I can\u00e2\u0080\u0099t do it - but I can lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558668797070,
+      "content": "Orrr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1558668794212,
+      "content": "Ohh shoot is that when the master class is",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558668756219,
+      "content": "If so, what time is it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1558668747820,
+      "content": "You guys still need my help at the cmc on wednesday?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555682883335,
+      "content": ":)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555682795818,
+      "content": "^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555680861561,
+      "content": "Feel better",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u008d",
+          "actor": "Mai Nguyen"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555680859067,
+      "content": "!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555680855477,
+      "content": "Ok that\u00e2\u0080\u0099s fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555676291751,
+      "content": "All good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555666302304,
+      "content": "Hey sorry to cancel but I'm feeling really sick, worse than yesterday, and I don't think it'd be a good idea for me to have a rehearsal this morning. Is it ok if we leave it for next week?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555640032446,
+      "content": "Sounds good!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639997883,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555639979983,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639974411,
+      "content": "we can start at 10 and see where we get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639968884,
+      "content": "sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555639959119,
+      "content": "10-10:45?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639948700,
+      "content": "I have something at 12",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555639948217,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639943218,
+      "content": "like 10 or 11?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639937630,
+      "content": "kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555639923026,
+      "content": "But sure!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555639919941,
+      "content": "Oh morning is fine it's just less convenient",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639909267,
+      "content": "and you cant do morning?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555639892099,
+      "content": "-8*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555639887539,
+      "content": "I can't do that... I'm not free from 3:30-7",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639842956,
+      "content": "can we do like 4?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555639804428,
+      "content": "2:15?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639792998,
+      "content": "time?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639783728,
+      "content": "watt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555639719176,
+      "content": "Afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555639653928,
+      "content": "wait were u guys going to come in the morning or afternoon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555194000135,
+      "content": "Oiie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555193611116,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555193602567,
+      "content": "So how about we all rehearse on Friday and then kimmai and I will find time before",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555193578523,
+      "content": "Is that ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555193574644,
+      "content": "Friday or Monday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555193574591,
+      "content": "Wait sorry josie and we're thinking that it'd be better if just the two of us had a reh first before we all rehear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555193569565,
+      "content": "Those work for me as well",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555193380309,
+      "content": "Ok both of those work for me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555193101991,
+      "content": "Friday morning Monday morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555193072767,
+      "content": "Ehhhh any othrr times?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555192997550,
+      "content": "I can do thurs late evening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555191225306,
+      "content": "Zhoot i cant do wedneaday",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Josephine Weissburg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555188705524,
+      "content": "I know I\u00e2\u0080\u0099m having a lesson at some point that day I\u00e2\u0080\u0099ll let u guys know",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555188684108,
+      "content": "I can do Wednesday !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555187196166,
+      "content": "Tues all day or wed morn/afternoon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555186968139,
+      "content": "can u guys meet this week?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555073297784,
+      "content": "Kk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555067531401,
+      "content": "After school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555033977707,
+      "content": "Im pretty sure im free the whole day but just wondeirng",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555033966023,
+      "content": "What time is it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555029791169,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555029768600,
+      "content": "Ok on almost home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555029762582,
+      "content": "Ouu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555029759510,
+      "content": "Morning",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555029757153,
+      "content": "Oh by tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555029752213,
+      "content": "Book*",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555029749826,
+      "content": "Boo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555029749378,
+      "content": "I can't check my calendar until I'm home lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555029746477,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555029734124,
+      "content": "Do u have to boo now or something?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555029167902,
+      "content": "Wait will I still am not sure are u available for the masterclass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555024646975,
+      "content": "omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555021016251,
+      "content": "************.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555021012769,
+      "content": "You're forgiven,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555021003159,
+      "content": ":)))))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555020997960,
+      "content": ":)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555020996368,
+      "content": "Soorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555020992930,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555020989774,
+      "content": "fyi",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555020979986,
+      "content": "also its killerkimmai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555020969161,
+      "content": "wat i'm always fun >:((",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555020955149,
+      "content": "Funmai and killerkammai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555020954703,
+      "content": "You could have two names to reflect ur two moods",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555020910688,
+      "content": "Yeooo its funmai",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555020631762,
+      "sticker": {
+        "uri": "messages/stickers_used/64705628_1115327828652066_9053759302979813376_n_162333113951547.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555020618792,
+      "content": "how are ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555020615166,
+      "sticker": {
+        "uri": "messages/stickers_used/64846726_1115325575318958_6856104995238969344_n_162332967284895.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555020061025,
+      "content": "Its good",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Josephine Weissburg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555020056233,
+      "content": "Ooo the okk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555020004911,
+      "content": "\u00f0\u009f\u0098\u00a2 Kimmai just being her quirky self",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555019979583,
+      "content": "I dont understand half of the chats here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555019398842,
+      "content": ":(((((( how improper i should have had a touch more delicacy",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Josephine Weissburg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555019380777,
+      "content": "the scandal!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555019359598,
+      "content": "i prob shouldn't have done that since will is here too haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555019325472,
+      "content": "okEEEEEEEEEEEEEee",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Josephine Weissburg"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555019294939,
+      "content": "okee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555019288731,
+      "content": "the masterclass is a week before the concert",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555019270104,
+      "content": "after right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555019265926,
+      "content": "this is before or after we perform the trio at the concert?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555018846091,
+      "content": "chamber music collaboration/club which i run we hav masterclasses where we play for everyone like a practice perf and we get feedback",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555018819140,
+      "content": "umbro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1555009513162,
+      "content": "What is cmc masterclass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555009335233,
+      "content": "Umbr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555005641073,
+      "content": "Who is doing the teaching ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1555005635993,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1555005138079,
+      "content": "Can u both perform in the CMC masterclass? Wed may 29 after school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1554487161656,
+      "content": "I might get there a little early from my lesson like 4:30 is that ok? I can find somewhere to hang out if not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1554481838472,
+      "content": "4 Bryant street",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1553970560574,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1553967779851,
+      "content": "Sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1553967776690,
+      "content": "Yay I'd rather rehearse in the evening too, preferably Friday evening",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1553966269084,
+      "content": "Works for me either way ! How about we talk abt it at lunch on Monday ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1553965852588,
+      "content": "Either way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1553965850431,
+      "content": "Yea me too",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1553965720788,
+      "content": "Would u rather rehearse in the evening at someone's house? I'm fine with that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1553965313264,
+      "content": "I usually have tennis right after school but if it rains then I can go right after school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1553964840275,
+      "content": "Hey! When would be a good time to rehearse Maya? If this week, I could do Friday after school.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mai Nguyen",
+      "timestamp_ms": 1553964814297,
+      "content": "Mai created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Josephine and Mai",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/JosephineandMai_oJ3BU5vj9A"
+}

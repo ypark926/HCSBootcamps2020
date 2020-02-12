@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Regina Ta"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1530394710609,
+      "content": "Yup yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Regina Ta",
+      "timestamp_ms": 1530394578243,
+      "content": "Hey just to confirm, we're hitting in West campus court 5 @ 5pm today! See u there :)",
+      "type": "Generic"
+    }
+  ],
+  "title": "Regina Ta",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ReginaTa_cwz_e1lrjw"
+}

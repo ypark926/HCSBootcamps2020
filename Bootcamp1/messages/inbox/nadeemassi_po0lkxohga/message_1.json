@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Nadeem Assi"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nadeem Assi",
+      "timestamp_ms": 1544960522301,
+      "content": "How are you?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Nadeem Assi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/NadeemAssi_PO0lkxOHGA"
+}

@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Shuguang Zhang"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560904174135,
+      "content": "Thanks so much!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Shuguang Zhang",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/ShuguangZhang_Jxt9pZbqdg"
+}

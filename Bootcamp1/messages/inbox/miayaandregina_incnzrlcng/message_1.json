@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "William Cooper"
+    },
+    {
+      "name": "Miaya South"
+    },
+    {
+      "name": "Regina Ta"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Regina Ta",
+      "timestamp_ms": 1530711597891,
+      "content": "Ya ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1530696217148,
+      "content": "Some other time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1530696210102,
+      "content": "Slight change in plans I probably wont able to make it tomorrow sorry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1530677248738,
+      "content": "I'll also try to grab someone else so we can play doublea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1530677237003,
+      "content": "Depends on how late tonight goea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Regina Ta",
+      "timestamp_ms": 1530676172195,
+      "content": "Hey guys! There are actually no courts available at 10, but r u guys good with playing from 9-10am?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Miaya and Regina",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/MiayaandRegina_iNCNzrLCNg"
+}

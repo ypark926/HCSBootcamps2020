@@ -1,0 +1,279 @@
+{
+  "participants": [
+    {
+      "name": "Albert Liu"
+    },
+    {
+      "name": "Nicholas Hall"
+    },
+    {
+      "name": "Andrew Garber"
+    },
+    {
+      "name": "Mohammed Shafim"
+    },
+    {
+      "name": "William Cooper"
+    },
+    {
+      "name": "Jonas Hansen"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1559928558395,
+      "content": "Nah u good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559928462191,
+      "content": "S\u00c3\u00b3lo yo olvid\u00c3\u00a9",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559928434690,
+      "content": "Oh shoot yeah I had them with me like all day yesterday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1559928289696,
+      "content": "Ooo swing my headphones \u00f0\u009f\u0099\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559924727418,
+      "content": "Andrew, I have you soldering iron stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1559775604251,
+      "content": "@Jonas?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1559775597864,
+      "content": "I don\u00e2\u0080\u0099t\u00f0\u009f\u0098\u00ac",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Garber",
+      "timestamp_ms": 1559774975213,
+      "content": "do any of you have uninsulated wire",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559754806944,
+      "content": "Aight word",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1559754796940,
+      "content": "that was quite difficult",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1559754782464,
+      "content": "https://www.amazon.com/dp/B00BMHLWSO/ref=pe_385040_30332200_pe_309540_26725410_item",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1559754696617,
+      "content": "trying to send link but my wifi is like too slow to load fb smh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559754565071,
+      "content": "Mee and albert will be there in 15",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1559754551233,
+      "content": "o",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559754545925,
+      "content": "Like where you got it online",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1559754512563,
+      "content": "what is the link",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559754498518,
+      "content": "*link",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559754494071,
+      "content": "Nicholas, do you have the kink to the led strip?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1559753983949,
+      "content": "Wut now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1559753981789,
+      "content": "Arduinos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1559753952492,
+      "content": "ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559753946201,
+      "content": "I have a family dinner with my grandma and stuff",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1559753928490,
+      "content": "why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559753907896,
+      "content": "I can\u00e2\u0080\u0099t do after 5",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559753789248,
+      "content": "Yer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Garber",
+      "timestamp_ms": 1559753765873,
+      "content": "221 charles st righ",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Garber",
+      "timestamp_ms": 1559753756800,
+      "content": "but i'm here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Andrew Garber",
+      "timestamp_ms": 1559753753403,
+      "content": "oh shoot i forgot my arduino",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Nicholas Hall",
+      "timestamp_ms": 1559753712965,
+      "content": "i have practice 2-5 so idk if ur doing anything later",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559753710582,
+      "content": "Chill",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559753705266,
+      "content": "Bro",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1559753689519,
+      "content": "And then tryna shop at galeria around 3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1559753675370,
+      "content": "I\u00e2\u0080\u0099ll get there around 2",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1559753671289,
+      "content": "I\u00e2\u0080\u0099m bout to go play soccer at king open",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1559753041433,
+      "content": "Mohammed Shafim added Nicholas Hall.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Nicholas Hall"
+        }
+      ]
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559752502019,
+      "content": "What\u00e2\u0080\u0099s your guys\u00e2\u0080\u0099 eta?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559752345822,
+      "content": "And wire strippers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559752338119,
+      "content": "And wire",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jonas Hansen",
+      "timestamp_ms": 1559752335454,
+      "content": "Yo, bring arduinos if you have any",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559750870285,
+      "content": "Hrreee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Mohammed Shafim",
+      "timestamp_ms": 1559750474694,
+      "content": "No cap",
+      "type": "Generic"
+    }
+  ],
+  "title": "Albert, Nicholas, Andrew and 2 others",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/AlbertNicholasAndrewand2others_q1Kz1IV5QA"
+}

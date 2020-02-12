@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Aidan McNeely"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aidan McNeely",
+      "timestamp_ms": 1543927425512,
+      "content": "Hi",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aidan McNeely",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AidanMcNeely_JCnuMnz1jw"
+}

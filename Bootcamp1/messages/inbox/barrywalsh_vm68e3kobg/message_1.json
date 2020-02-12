@@ -1,0 +1,190 @@
+{
+  "participants": [
+    {
+      "name": "Barry Walsh"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1514662032277,
+      "content": "Oite",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661988619,
+      "content": "Just shut up and be at the rink at 3:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661971878,
+      "content": "Dude what",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1514661964548,
+      "content": "Indeed",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661926218,
+      "content": "I can\u00e2\u0080\u0099t tell if you\u00e2\u0080\u0099re joking or not",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1514661923351,
+      "content": "I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1514661923140,
+      "content": "Sc is will_fully",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661916499,
+      "content": "Are you dense?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1514661907502,
+      "content": "I still dont get it explain more",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661750813,
+      "content": "It had previously been bus at 6 for a 7:50 game. Weston rescheduled tho, so now the game is at 6 and the bus is at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661716698,
+      "content": "Game is now at 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661713379,
+      "content": "Bus now leaves at 4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661707658,
+      "content": "All you need to know is be at the rink at 3:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661689728,
+      "content": "What\u00e2\u0080\u0099s your sc",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1514661648441,
+      "content": "No but someone needs to fugging add me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1514661641562,
+      "content": "In regards to the game lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661620977,
+      "content": "I forget, are you in the sc group chat?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661609579,
+      "content": "Idk why it said group call, but do you get what\u00e2\u0080\u0099s going on in regards to the game",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661582227,
+      "content": "Nah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661577257,
+      "content": "What",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1514661566236,
+      "content": "I dont understand are there other people in this group?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661136382,
+      "content": "BE AT THE RINK AT 3:45",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661129689,
+      "content": "So bus now leaves at 4 instead of 6",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661121681,
+      "content": "Game got moved from 7:50 to 6 tonight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514661107134,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514058654401,
+      "content": "The call ended.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514058635676,
+      "content": "Barry joined the call.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514058635648,
+      "content": "Barry started a call.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Barry Walsh",
+      "timestamp_ms": 1514058634126,
+      "content": "Barry created the group.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Barry Walsh",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/BarryWalsh_vM68E3Kobg"
+}

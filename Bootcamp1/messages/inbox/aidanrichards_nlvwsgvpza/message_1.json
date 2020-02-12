@@ -1,0 +1,458 @@
+{
+  "participants": [
+    {
+      "name": "Aidan Richards"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1512960699176,
+      "content": "No?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1512959717697,
+      "content": "Are we drifting?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1512958675499,
+      "content": "O nvm i read what u said wrong",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1512953834264,
+      "content": "Wdym it's Sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1512951504493,
+      "content": "Its sunday yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1512951499063,
+      "content": "We are",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1512949980078,
+      "content": "I feel like we're drifting",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1512949974228,
+      "content": "What's going on my guy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511394913272,
+      "content": "On time and place and people",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "William Cooper"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1511385468510,
+      "content": "On what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511319615228,
+      "content": "It still depends",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511319611129,
+      "content": "On occasion sure",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1511319208359,
+      "content": "Like does that sound fun?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1511319203401,
+      "content": "Idk it's not like a set thing I just mean in geneal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511302845466,
+      "content": "When",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511302843491,
+      "content": "Maybd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1511301852869,
+      "content": "Do you like that kinda stuff?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1511301844371,
+      "content": "It would be like biking, maybe going to a party, juuling, linking w ppl, idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511287657258,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1511282597860,
+      "content": "Would you want to?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1511282592456,
+      "content": "Idk like it's not that we have a plan, it would be that like next time we do something you would come",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511274439997,
+      "content": "What r u gonna do?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511274433325,
+      "content": "Its fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1511269363144,
+      "content": "Yo next time Seth and I chill do you want to come? I completely forgot to ask abt that I feel bad that you were like left out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511009733243,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511009731089,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1511009729489,
+      "content": "Nah not really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510983541713,
+      "content": "Did Seth clue you into that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510983532449,
+      "content": "And also now we have to consider the sauce of outfits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510983521021,
+      "content": "Okayy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510885003506,
+      "content": "Ill ask when i need i suppose",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510884997272,
+      "content": "Idk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510884752366,
+      "content": "Forever or just for a while?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510884741102,
+      "content": "Haha ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510884640034,
+      "content": "I think im good without",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510884623459,
+      "content": "Yaknow\n\n\n...",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510884612011,
+      "content": "Think about it? Snaps, instagrams, yellow, something else?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510884596344,
+      "content": "Willlll",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510877613464,
+      "content": "Do you want to at least think about what kind of sauce you want?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510877593427,
+      "content": "Why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510860800281,
+      "content": "Now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510860796962,
+      "content": "Ill hold off on that for bow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510850690854,
+      "content": "You want to make a yellow, or get some instagrams, or some snaps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510850672942,
+      "content": "Sooo what kind of sauce do you want",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510798729721,
+      "content": "Like if someone needs a photographer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510797482131,
+      "content": "Wdym reccomend me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510716123895,
+      "content": "Ty tho ill recommend you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510716117747,
+      "content": "Not anytime soon anyways",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510715864712,
+      "content": "Ya. You wanna do one?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510715796522,
+      "content": "Dope now i got a guy when i need a photoshoot lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510715486808,
+      "content": "Lmk if you want me to take a photo of you lol I've got a nice camera",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510715466327,
+      "content": "Well I think you got it now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510715460834,
+      "content": "Okaayy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510627557797,
+      "content": "Lol i appreciate the concern but i think most photos of me are on some flashdrive that im too l too lazy to get",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510627406397,
+      "content": "Go through your camera roll rn fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510627304930,
+      "content": "Ill take one tomorrow or somethin",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510627293718,
+      "content": "Prolly but i dont wanna look",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510626688655,
+      "content": "Do you have a photo someone else has taken of you you can use",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510626686789,
+      "content": "Nah change it NOW fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510543013905,
+      "content": "I shall change when i find a good enough image",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510542997450,
+      "content": "Lol no but i trust you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510540513383,
+      "content": "Did you look at mine?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510540509120,
+      "content": "Nah it's just important to be boujee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510456231116,
+      "content": "O\nWhy \nDo you put it on ur resume or something to have employers look at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510455551608,
+      "content": "Did you look at my profile? It's serious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510455544118,
+      "content": "Bc fam it's gotta be serious",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510453694083,
+      "content": "Why",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510453676689,
+      "content": "??",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1510453598681,
+      "content": "Say hello to Aidan.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510451993980,
+      "content": "Make sure you send a ton of friend requests",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510451985522,
+      "content": "Facebook has to be somewhat professional fam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Aidan Richards",
+      "timestamp_ms": 1510451963983,
+      "content": "Change that photo fam",
+      "type": "Generic"
+    }
+  ],
+  "title": "Aidan Richards",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/AidanRichards_NlVWsGVPZA"
+}

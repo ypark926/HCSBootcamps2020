@@ -1,0 +1,148 @@
+{
+  "participants": [
+    {
+      "name": "Rachel Alexander"
+    },
+    {
+      "name": "Albert Liu"
+    },
+    {
+      "name": "Sakib Asraf"
+    },
+    {
+      "name": "Phoebe Smith"
+    },
+    {
+      "name": "Pauline Nadis"
+    },
+    {
+      "name": "William Cooper"
+    },
+    {
+      "name": "Penelope Hernandez"
+    },
+    {
+      "name": "Raiag Khan"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555294081695,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Phoebe Smith",
+      "timestamp_ms": 1555293433232,
+      "content": "Edulbehram",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555293407709,
+      "content": "@Pauline Nadis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555293403410,
+      "content": "so we can give her hours for volunteering",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555293396648,
+      "content": "yo what's uma's last name",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1555273887747,
+      "content": "Nvm she can come, Sakib said it's fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pauline Nadis",
+      "timestamp_ms": 1555273804012,
+      "content": "I thought there was still an open spot?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1555273768865,
+      "content": "Someone already took Alburts spot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Pauline Nadis",
+      "timestamp_ms": 1555273680833,
+      "content": "Hi, it looks like we\u00e2\u0080\u0099re a little understaffed tonight.. would it be okay if my friend Uma who is in club 4 comes to help volunteer tonight?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1555069751194,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555069409130,
+      "content": "Thanks for letting me know early",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555069398048,
+      "content": "We can get a sub",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555069390606,
+      "content": "Rip",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1555068633869,
+      "content": "I\u00e2\u0080\u0099m gonna be in California",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555050877650,
+      "content": "Sakib Asraf added Rachel Alexander and Penelope Hernandez.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Rachel Alexander"
+        },
+        {
+          "name": "Penelope Hernandez"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555050867563,
+      "content": "Sakib named the group Y2Y Sunday, April 14.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1555050850774,
+      "content": "Hi guys! We're all volunteering this Sunday at Y2Y! Raiag and I will be your points.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Y2Y Sunday, April 14",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/Y2YSundayApril14_qTtZG7qtjw"
+}

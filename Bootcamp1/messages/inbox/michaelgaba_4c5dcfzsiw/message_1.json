@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Michael Gaba"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Michael Gaba",
+      "timestamp_ms": 1567217924951,
+      "content": "What it do! Hope all is well! My name is Michael Gaba and I\u00e2\u0080\u0099m a senior at Harvard! I remember what it was like going into my freshman year; it\u00e2\u0080\u0099s both an amazing and crazy time. I just wanted to reach out to answer any questions and in general be a resource. I\u00e2\u0080\u0099m involved in a variety of organizations, BMF, HCFA, SoulFood, PBHA, and in general have been able to see many different sides of Harvard throughout my time here! Feel free to reach out about anything, any questions, concerns, or if you\u00e2\u0080\u0099re just looking for someone to talk to!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Michael Gaba",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MichaelGaba_4c5dCfZsiw"
+}

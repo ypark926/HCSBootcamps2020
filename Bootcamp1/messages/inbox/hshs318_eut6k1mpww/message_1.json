@@ -1,0 +1,69 @@
+{
+  "participants": [
+    {
+      "name": "Juliette Low Fleury"
+    },
+    {
+      "name": "Mahdi Ibrahim"
+    },
+    {
+      "name": "Tyrone Quigley"
+    },
+    {
+      "name": "Rachel Alexander"
+    },
+    {
+      "name": "Albert Liu"
+    },
+    {
+      "name": "Kiva McElhiney"
+    },
+    {
+      "name": "Elizabeth Roman"
+    },
+    {
+      "name": "Summia Mahmud"
+    },
+    {
+      "name": "William Cooper"
+    },
+    {
+      "name": "Isaiah Hayward"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rachel Alexander",
+      "timestamp_ms": 1521381685356,
+      "content": "Rachel Alexander added Juliette Low Fleury and 2 others.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Juliette Low Fleury"
+        },
+        {
+          "name": "Tyrone Quigley"
+        },
+        {
+          "name": "Summia Mahmud"
+        }
+      ]
+    },
+    {
+      "sender_name": "Rachel Alexander",
+      "timestamp_ms": 1521381667398,
+      "content": "Hey guys! You're all signed up to volunteer tonight at HSHS fomr 5pm-9pm. Me and Mahdi are your points so hit us up if you have any questions!!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Rachel Alexander",
+      "timestamp_ms": 1521381530846,
+      "content": "Rachel named the group HSHS 3/18.",
+      "type": "Generic"
+    }
+  ],
+  "title": "HSHS 3/18 ",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/HSHS318_EuT6k1MPWw"
+}

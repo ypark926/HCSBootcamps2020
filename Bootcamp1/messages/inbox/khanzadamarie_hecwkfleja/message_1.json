@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Khanzada Marie"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560868328953,
+      "content": "Thank you!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khanzada Marie",
+      "timestamp_ms": 1560867694745,
+      "content": "Happy birthday!!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Khanzada Marie",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KhanzadaMarie_hecwKFLeJA"
+}

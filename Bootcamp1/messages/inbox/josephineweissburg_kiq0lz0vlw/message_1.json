@@ -1,0 +1,290 @@
+{
+  "participants": [
+    {
+      "name": "Josephine Weissburg"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560618898216,
+      "content": "\u00f0\u009f\u0091\u008d\u00f0\u009f\u0091\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560618583950,
+      "content": "Anothet time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560618581814,
+      "content": "All good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560618576937,
+      "content": "Dam",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560618155992,
+      "content": "Coming back tomorrow ://",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560618150336,
+      "content": "Im at the cape right now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560618145239,
+      "content": "Ah! I wish :c",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560617995001,
+      "content": "Come?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560617993270,
+      "content": "Small party at my place today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560530642336,
+      "content": "Vruh i was right in front",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560530566039,
+      "content": "Turn down prentiss from oxford",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560530555799,
+      "content": "51 frost Lolol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560530551640,
+      "content": "I'm struggling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560530548377,
+      "content": "What's the address again?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560529401777,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560528900531,
+      "content": "Oh that\u00e2\u0080\u0099d be great!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560528890012,
+      "content": "I have to run some errands in the car so I could drive over in like 10",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560528844921,
+      "content": "Great! How about I bike over and get it in like 40 minutes? I have to go by school as well -",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560528167531,
+      "content": "I'll make sure to bring it to u before i leave but if u want to pick it up i can leave it outside somewhere?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560528145269,
+      "content": "Found it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482666984,
+      "content": "thats for composting lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482662389,
+      "content": "it has a little white sticker on it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482655399,
+      "content": "ohnu",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560482560423,
+      "content": "Its probably in my kitchsn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560482535675,
+      "content": "Shoot someone must have moved it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482528644,
+      "content": "yeti brand",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482526246,
+      "content": "its grey metal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482521736,
+      "content": "on the ground",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482519445,
+      "content": "on the right side",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482516303,
+      "content": "i think its near your piano",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482510483,
+      "content": "i can come over and get it if thats more convenient",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560482501357,
+      "content": "lololl thanks so much!",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560482451388,
+      "content": "Wait where did u put it and what does it look like",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1560482403473,
+      "content": "Yeaa I'll bike over tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560479539989,
+      "content": "so i want to get it before then",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560479535615,
+      "content": "but i heard down the grapevine that youre going away somewhere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560479526552,
+      "content": "i can pick it up at your house",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560479520399,
+      "content": "ahhaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560479513777,
+      "content": "bc i need to gt my thermos",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560479508471,
+      "content": "when you goin outta town",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1560479504517,
+      "content": "yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559847741262,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1559847739440,
+      "content": "Yeaa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559845911392,
+      "content": "Thanks !",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Josephine Weissburg",
+      "timestamp_ms": 1559845907724,
+      "content": "Don\u00e2\u0080\u0099t forget to bring my water mug!!",
+      "type": "Generic"
+    }
+  ],
+  "title": "Josephine Weissburg",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/JosephineWeissburg_kIq0Lz0Vlw"
+}

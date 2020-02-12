@@ -1,0 +1,100 @@
+{
+  "participants": [
+    {
+      "name": "Miaya South"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1530310649326,
+      "content": "Eh dont worry about it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Miaya South",
+      "timestamp_ms": 1530310458548,
+      "content": "ohmygosh i am so sorry i just saw this",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529967417468,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529963880233,
+      "content": "Yo which tennis courts you wabt to meet at?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Miaya South",
+      "timestamp_ms": 1529935399053,
+      "content": "4 is good with me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529935200083,
+      "content": "Could we do afternoon at like 4 instead? Or will it be too hot",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529935181300,
+      "content": "Oof i just realized that I have class at 10:30",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Miaya South",
+      "timestamp_ms": 1529910342816,
+      "content": "And hopefully there\u00e2\u0080\u0099ll be a place near the courts to get balls",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Miaya South",
+      "timestamp_ms": 1529910330664,
+      "content": "Sounds good to me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529905175955,
+      "content": "Might need to pick up some balls somewhere",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529905165218,
+      "content": "Meet at the courts sometime aftet breakfast?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Miaya South",
+      "timestamp_ms": 1529903605022,
+      "content": "I don\u00e2\u0080\u0099t have any classes tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Miaya South",
+      "timestamp_ms": 1529903593337,
+      "content": "You can now call each other and see information like Active Status and when you've read messages.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529898616896,
+      "content": "What times you have class tomorrow?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Miaya South",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/MiayaSouth_XhIkQe7Erg"
+}

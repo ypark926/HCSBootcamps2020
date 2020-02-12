@@ -1,0 +1,297 @@
+{
+  "participants": [
+    {
+      "name": "Raiag Khan"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565835481704,
+      "content": "Yeeee",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565830315468,
+      "content": "Hello sir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1565486806141,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1565486760612,
+      "sticker": {
+        "uri": "messages/stickers_used/851587_369239346556147_162929011_n_369239343222814.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1564197829797,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/RaiagKhan_5k1Gm9Cc-g/audio/audioclip156419781317921204_698182493938056.mp4",
+          "creation_timestamp": 1564197829
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562529653227,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562529648522,
+      "content": "Nicks coming to get you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562529641509,
+      "content": "Go to the first floor bottom of the first staircase",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562529602049,
+      "content": "From the main entrance",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562529595551,
+      "content": "Likw how far down",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562529589128,
+      "content": "Second floor?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562529583453,
+      "content": "Im struggling to find the place",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562529351730,
+      "content": "Lol were waiting on a few",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562529334481,
+      "content": "U can start without me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562529329057,
+      "content": "Yea in a few min",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562528488732,
+      "content": "Are you coming",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562462504298,
+      "content": "Probably tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562462499072,
+      "content": "Idk yet",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562461250077,
+      "content": "Huh aren't you coming anyway",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562461213961,
+      "content": "Ye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562461211009,
+      "content": "I'll come take a look tomorrow perhaps",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562461206673,
+      "content": "Oh lightwork",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562461199205,
+      "content": "Yeah i think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562461190670,
+      "content": "Just one wire?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562461177876,
+      "content": "For my computer at least",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562461171111,
+      "content": "Hdmi 1",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562453765135,
+      "content": "What cables/ ports do you use when connecting to the projector",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562451650632,
+      "content": "So basically",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562451647850,
+      "content": "So after tomorrow 4 more weeks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562451634819,
+      "content": "Well each week we finish a half of a season",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562451620308,
+      "content": "Like for the resf of summer?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562451614545,
+      "content": "Aye",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562451608854,
+      "content": "Thats lit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562451606776,
+      "content": "Im there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562451601556,
+      "content": "Ooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562451596348,
+      "content": "You missed the first half of season 1 should be fine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562451572771,
+      "content": "Every Sunday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562451570810,
+      "content": "Yessir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562451566356,
+      "content": "Tomorrow?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562451357923,
+      "content": "Sunday actually",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562451341818,
+      "content": "Monday at mit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562451335010,
+      "content": "Im in the gc now so yea lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562451262438,
+      "content": "Do you know abt the marathon?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1562451197554,
+      "content": "Yeah whatsup?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Raiag Khan",
+      "timestamp_ms": 1562448491675,
+      "content": "Hey will are you back?",
+      "type": "Generic"
+    }
+  ],
+  "title": "Raiag Khan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/RaiagKhan_5k1Gm9Cc-g"
+}

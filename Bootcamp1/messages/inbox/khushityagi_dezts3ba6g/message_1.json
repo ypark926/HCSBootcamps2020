@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Khushi Tyagi"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1549253043268,
+      "content": "crazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khushi Tyagi",
+      "timestamp_ms": 1549125621346,
+      "content": "ik I can\u00e2\u0080\u0099t believe it\u00e2\u0080\u0099s been half a year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1549073777481,
+      "content": "damn summer was so long ago",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1549073767002,
+      "content": "never got to heh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khushi Tyagi",
+      "timestamp_ms": 1549047078712,
+      "content": "Thank you! We still haven\u00e2\u0080\u0099t really met \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1549044750337,
+      "content": "Happeh Beraihggh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1529348133569,
+      "content": "Thanks haha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Khushi Tyagi",
+      "timestamp_ms": 1529344589847,
+      "content": "Happy birthday! We don\u00e2\u0080\u0099t really know each other but c u soon :))))",
+      "type": "Generic"
+    }
+  ],
+  "title": "Khushi Tyagi",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/KhushiTyagi_dezTS3BA6g"
+}

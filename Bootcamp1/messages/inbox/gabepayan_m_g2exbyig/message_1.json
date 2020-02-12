@@ -1,0 +1,22 @@
+{
+  "participants": [
+    {
+      "name": "Gabe Payan"
+    },
+    {
+      "name": "William Cooper"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gabe Payan",
+      "timestamp_ms": 1540743925964,
+      "content": "Gabe Payan just joined Messenger! Be the first to send a welcome message or sticker.",
+      "type": "Generic"
+    }
+  ],
+  "title": "Gabe Payan",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/GabePayan_m_G2ExBYIg"
+}

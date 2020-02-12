@@ -1,0 +1,152 @@
+{
+  "participants": [
+    {
+      "name": "Melissa Liu"
+    },
+    {
+      "name": "Rachel Alexander"
+    },
+    {
+      "name": "Albert Liu"
+    },
+    {
+      "name": "Jemma Kepner"
+    },
+    {
+      "name": "Sakib Asraf"
+    },
+    {
+      "name": "Maya Goldstein"
+    },
+    {
+      "name": "William Cooper"
+    },
+    {
+      "name": "Penelope Hernandez"
+    },
+    {
+      "name": "Hazen Emerson"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1543012125753,
+      "content": "if you're still stuck outside, ring the bell",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Albert Liu",
+      "timestamp_ms": 1543011162471,
+      "content": "Can anyone open the door",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1542987875017,
+      "content": "^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Penelope Hernandez",
+      "timestamp_ms": 1542987315932,
+      "content": "This year we are starting to recommend that points meet earlier at 3:30 to shop because meeting at 4 always made points late to the shelters",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Jemma Kepner"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1542987286645,
+      "content": "Yeah. The only forms you'd have to turn in again would be the Y2Y forms",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hazen Emerson",
+      "timestamp_ms": 1542980406370,
+      "content": "\u00f0\u009f\u0091\u008d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jemma Kepner",
+      "timestamp_ms": 1542980081580,
+      "content": "So if you did bring in forms last year its all good?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1542980061070,
+      "content": "^",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hazen Emerson",
+      "timestamp_ms": 1542978715908,
+      "content": "Yeah we get there at 5 and Will your fine \u00f0\u009f\u0091\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "William Cooper"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "William Cooper",
+      "timestamp_ms": 1542978643175,
+      "content": "What if i brought forms in last year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Jemma Kepner",
+      "timestamp_ms": 1542978191511,
+      "content": "5 is when we\u00e2\u0080\u0099re supposed to arrive right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Hazen Emerson",
+      "timestamp_ms": 1542975449309,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1542948717779,
+      "content": "Sakib Asraf added Rachel Alexander and 2 others.",
+      "type": "Subscribe",
+      "users": [
+        {
+          "name": "Rachel Alexander"
+        },
+        {
+          "name": "Maya Goldstein"
+        },
+        {
+          "name": "Penelope Hernandez"
+        }
+      ]
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1542948701346,
+      "content": "Sakib named the group HSHS Firday, Nov 23.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Sakib Asraf",
+      "timestamp_ms": 1542948687931,
+      "content": "Hi guys, you're all volunteering at HSHS on Friday, Nov 23. Jemma and Melissa will be your points. If you don't yet have your forms in, bring them to the shelter otherwise you won't be able to volunteer. If you have any questions feel free to message myself or any of the other Club 4 admins who I'll be adding shortly. Also, you guys are currently short 2 volunteers, so it would be awesome if any of you could have a friend sign up.",
+      "type": "Generic"
+    }
+  ],
+  "title": "HSHS Firday, Nov 23",
+  "is_still_participant": true,
+  "thread_type": "RegularGroup",
+  "thread_path": "inbox/HSHSFirdayNov23_5Wh2KQtiUw"
+}
